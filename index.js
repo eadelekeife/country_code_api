@@ -14,11 +14,27 @@ app.use('/api/v1/countries', apiRouter);
 apiRouter.get('/countries', (req, res) => {
     let url = path.join(__dirname, 'countries.json');
     let readFile = util.promisify(fs.readFile);
-    readFile(url)
+    readFile(url,'utf-8')
     .then(data => {
-        console.log(data)
+        console.log(JSON.parse(data)[0])
     })
     res.send('done');
+})
+
+apiRouter.get('/countries/:name', (req, res) => {
+    let url = path.join(__dirname, 'countries.json');
+    let readFile = util.promisify(fs.readFile);
+    readFile(url,'utf-8')
+    .then(data => {
+        let newCountryData = JSON.parse(data);
+        let filteredCountry = newCountryData.filter(country => {
+            if(country.code.toLowerCase() === req.params.name.toLowerCase()) {
+                return country;
+            }
+        })
+        res.send(filteredCountry)
+    })
+    // res.send('done');
 })
 
 const port = process.env.PORT || 8080;
