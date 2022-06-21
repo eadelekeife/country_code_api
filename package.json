@@ -1,0 +1,16 @@
+{
+  "name": "country_codes",
+  "version": "1.0.0",
+  "description": "Rest API to fetch country's data (images, country codes)\u001b[D etc)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adeleke Ifeoluwase",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.2",
+    "express": "^4.18.1"
+  }
+}
