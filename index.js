@@ -37,5 +37,70 @@ apiRouter.get('/countries/:name', (req, res) => {
     // res.send('done');
 })
 
+apiRouter.get('/currency/:name', (req, res) => {
+    let url = path.join(__dirname, 'countries.json');
+    let readFile = util.promisify(fs.readFile);
+    readFile(url,'utf-8')
+    .then(data => {
+        let newCountryData = JSON.parse(data);
+        let filteredCountry = newCountryData.filter(country => {
+            if(country.code.toLowerCase() === req.params.name.toLowerCase()) {
+                return country.currency;
+            }
+        })
+        res.send(filteredCountry)
+    })
+})
+
+apiRouter.get('/states/:name', (req, res) => {
+    let url = path.join(__dirname, 'countries.json');
+    let readFile = util.promisify(fs.readFile);
+    readFile(url,'utf-8')
+    .then(data => {
+        let newCountryData = JSON.parse(data);
+        let filteredCountry = newCountryData.filter(country => {
+            if(country.code.toLowerCase() === req.params.name.toLowerCase()) {
+                return country.states;
+            }
+        })
+        res.send(filteredCountry)
+    })
+})
+
+apiRouter.get('/continent/:name', (req, res) => {
+    let url = path.join(__dirname, 'countries.json');
+    let readFile = util.promisify(fs.readFile);
+    readFile(url,'utf-8')
+    .then(data => {
+        let newCountryData = JSON.parse(data);
+        let filteredCountry = newCountryData.filter(country => {
+            if(country.code.toLowerCase() === req.params.name.toLowerCase()) {
+                return country.continent;
+            }
+        })
+        res.send(filteredCountry)
+    })
+})
+
+apiRouter.get('/continent', (req, res) => {
+    let url = path.join(__dirname, 'countries.json');
+    let readFile = util.promisify(fs.readFile);
+    readFile(url,'utf-8')
+    .then(data => {
+        let newCountryData = JSON.parse(data);
+        let continentCountries = [];
+        newCountryData.forEach(country => {
+            if(country.continent.toLowerCase() === req.params.name.toLowerCase()) {
+                continentCountries.push(country);
+            }
+        })
+        res.send(continentCountries)
+    })
+})
+
+apiRouter.get('/newdataflow', (req,res) => {
+    console.log('running properly')
+})
+
 const port = process.env.PORT || 8080;
 app.listen(port, console.log(clc.bgBlack.red(`App connected on port ${port}`)));
