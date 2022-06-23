@@ -101,6 +101,46 @@ apiRouter.get('/country/flag/:name', (req, res) => {
         })
 })
 
+apiRouter.get('/country/name/:name', (req, res) => {
+    let url = path.join(__dirname, 'countries.json');
+    let readFile = util.promisify(fs.readFile);
+    readFile(url, 'utf-8')
+        .then(data => {
+            let newCountryData = JSON.parse(data);
+            let filteredCountry = newCountryData.find(country => {
+                if (country.code.toLowerCase() === req.params.name.toLowerCase()) {
+                    return country;
+                }
+            })
+            if (filteredCountry) {
+                let successMessage = {
+                    status: 200,
+                    statusMessage: "success",
+                    summary: 'Country data fetched successfully',
+                    message: filteredCountry.name
+                };
+                res.json(successMessage);
+            } else {
+                let errorMessage = {
+                    status: 404,
+                    statusMessage: "error",
+                    summary: 'Country not found',
+                    message: ''
+                };
+                res.json(errorMessage);
+            }
+        })
+        .catch(err => {console.log(err)
+            let errorMessage = {
+                status: 400,
+                statusMessage: "error",
+                summary: 'Failed to fetch Country data',
+                message: ''
+            };
+            res.json(errorMessage);
+        })
+})
+
 apiRouter.get('/currency/:name', (req, res) => {
     let url = path.join(__dirname, 'countries.json');
     let readFile = util.promisify(fs.readFile);
