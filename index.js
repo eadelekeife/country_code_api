@@ -14,92 +14,112 @@ app.use('/api/v1/countries', apiRouter);
 apiRouter.get('/countries', (req, res) => {
     let url = path.join(__dirname, 'countries.json');
     let readFile = util.promisify(fs.readFile);
-    readFile(url,'utf-8')
-    .then(data => {
-        console.log(JSON.parse(data)[0])
-    })
+    readFile(url, 'utf-8')
+        .then(data => {
+            console.log(JSON.parse(data)[0])
+        })
     res.send('done');
 })
 
-apiRouter.get('/countries/:name', (req, res) => {
+apiRouter.get('/country/:name', (req, res) => {
     let url = path.join(__dirname, 'countries.json');
     let readFile = util.promisify(fs.readFile);
-    readFile(url,'utf-8')
-    .then(data => {
-        let newCountryData = JSON.parse(data);
-        let filteredCountry = newCountryData.filter(country => {
-            if(country.code.toLowerCase() === req.params.name.toLowerCase()) {
-                return country;
+    readFile(url, 'utf-8')
+        .then(data => {
+            let newCountryData = JSON.parse(data);
+            let filteredCountry = newCountryData.find(country => {
+                if (country.code.toLowerCase() === req.params.name.toLowerCase()) {
+                    return country;
+                }
+            })
+            if (filteredCountry) {
+                let successMessage = {
+                    status: 200,
+                    statusMessage: "success",
+                    summary: 'Country data fetched successfully',
+                    message: filteredCountry
+                };
+                res.json(successMessage);
+            } else {
+                let errorMessage = {
+                    status: 404,
+                    statusMessage: "error",
+                    summary: 'Country not found',
+                    message: ''
+                };
+                res.json(errorMessage);
             }
         })
-        res.send(filteredCountry)
-    })
-    // res.send('done');
+        .catch(err => {
+            let errorMessage = {
+                status: 400,
+                statusMessage: "error",
+                summary: 'Failed to fetch Country data',
+                message: ''
+            };
+            res.json(errorMessage);
+        })
 })
 
 apiRouter.get('/currency/:name', (req, res) => {
     let url = path.join(__dirname, 'countries.json');
     let readFile = util.promisify(fs.readFile);
-    readFile(url,'utf-8')
-    .then(data => {
-        let newCountryData = JSON.parse(data);
-        let filteredCountry = newCountryData.filter(country => {
-            if(country.code.toLowerCase() === req.params.name.toLowerCase()) {
-                return country.currency;
-            }
+    readFile(url, 'utf-8')
+        .then(data => {
+            let newCountryData = JSON.parse(data);
+            let filteredCountry = newCountryData.filter(country => {
+                if (country.code.toLowerCase() === req.params.name.toLowerCase()) {
+                    return country.currency;
+                }
+            })
+            res.send(filteredCountry)
         })
-        res.send(filteredCountry)
-    })
 })
 
 apiRouter.get('/states/:name', (req, res) => {
     let url = path.join(__dirname, 'countries.json');
     let readFile = util.promisify(fs.readFile);
-    readFile(url,'utf-8')
-    .then(data => {
-        let newCountryData = JSON.parse(data);
-        let filteredCountry = newCountryData.filter(country => {
-            if(country.code.toLowerCase() === req.params.name.toLowerCase()) {
-                return country.states;
-            }
+    readFile(url, 'utf-8')
+        .then(data => {
+            let newCountryData = JSON.parse(data);
+            let filteredCountry = newCountryData.filter(country => {
+                if (country.code.toLowerCase() === req.params.name.toLowerCase()) {
+                    return country.states;
+                }
+            })
+            res.send(filteredCountry)
         })
-        res.send(filteredCountry)
-    })
 })
 
 apiRouter.get('/continent/:name', (req, res) => {
     let url = path.join(__dirname, 'countries.json');
     let readFile = util.promisify(fs.readFile);
-    readFile(url,'utf-8')
-    .then(data => {
-        let newCountryData = JSON.parse(data);
-        let filteredCountry = newCountryData.filter(country => {
-            if(country.code.toLowerCase() === req.params.name.toLowerCase()) {
-                return country.continent;
-            }
+    readFile(url, 'utf-8')
+        .then(data => {
+            let newCountryData = JSON.parse(data);
+            let filteredCountry = newCountryData.filter(country => {
+                if (country.code.toLowerCase() === req.params.name.toLowerCase()) {
+                    return country.continent;
+                }
+            })
+            res.send(filteredCountry)
         })
-        res.send(filteredCountry)
-    })
 })
 
 apiRouter.get('/continent', (req, res) => {
     let url = path.join(__dirname, 'countries.json');
     let readFile = util.promisify(fs.readFile);
-    readFile(url,'utf-8')
-    .then(data => {
-        let newCountryData = JSON.parse(data);
-        let continentCountries = [];
-        newCountryData.forEach(country => {
-            if(country.continent.toLowerCase() === req.params.name.toLowerCase()) {
-                continentCountries.push(country);
-            }
+    readFile(url, 'utf-8')
+        .then(data => {
+            let newCountryData = JSON.parse(data);
+            let continentCountries = [];
+            newCountryData.forEach(country => {
+                if (country.continent.toLowerCase() === req.params.name.toLowerCase()) {
+                    continentCountries.push(country);
+                }
+            })
+            res.send(continentCountries)
         })
-        res.send(continentCountries)
-    })
-})
-
-apiRouter.get('/newdataflow', (req,res) => {
-    console.log('running properly')
 })
 
 const port = process.env.PORT || 8080;
