@@ -426,18 +426,14 @@
         "currency": "Bangladeshi taka",
         "continent": "Asia",
         "states": [
-            "Dhaka North",
-            "Dhaka South",
+            "Barisal",
             "Chittagong",
+            "Dhaka",
+            "Mymensingh",
             "Khulna",
             "Rajshahi",
-            "Sylhet",
-            "Comilla",
-            "Gazipur",
-            "Mymensingh",
-            "Barisal",
             "Rangpur",
-            "Narayanganj"
+            "Sylhet"
         ]
     },
     {
