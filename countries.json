@@ -441,7 +441,10 @@
         "unicode": "U+1F1E7 U+1F1EA",
         "name": "Belgium",
         "emoji": "🇧🇪",
-        "flag": "https://flagcdn.com/48x36/be.png"
+        "flag": "https://flagcdn.com/48x36/be.png",
+        "currency": "Aruban florin",
+        "continent": "Europe",
+        "states": []
     },
     {
         "code": "BF",
