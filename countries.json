@@ -444,7 +444,18 @@
         "flag": "https://flagcdn.com/48x36/be.png",
         "currency": "Euro",
         "continent": "Europe",
-        "states": []
+        "states": [
+            "Antwerpen",
+            "Limburg",
+            "Vlaams Brabant",
+            "Oost-Vlaanderen",
+            "West-Vlaanderen",
+            "Hainaut",
+            "Brabant wallon",
+            "Namur",
+            "Liège",
+            "Luxembourg"
+        ]
     },
     {
         "code": "BF",
