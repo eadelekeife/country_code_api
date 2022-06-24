@@ -1,101 +1,318 @@
 [
     {
-        "code": "AC",
-        "unicode": "U+1F1E6 U+1F1E8",
-        "name": "Ascension Island",
-        "emoji": "🇦🇨",
-        "flag": "https://flagcdn.com/48x36/ac.png"
-    },
-    {
         "code": "AD",
         "unicode": "U+1F1E6 U+1F1E9",
         "name": "Andorra",
         "emoji": "🇦🇩",
-        "flag": "https://flagcdn.com/48x36/ad.png"
+        "flag": "https://flagcdn.com/48x36/ad.png",
+        "currency": "Euro",
+        "continent": "Europe",
+        "states": [
+            "Andorra la Vella",
+            "Canillo",
+            "Encamp",
+            "Escaldes-Engordany",
+            "La Massana",
+            "Ordino",
+            "Sant Julià de Lòria"
+        ]
     },
     {
         "code": "AE",
         "unicode": "U+1F1E6 U+1F1EA",
         "name": "United Arab Emirates",
         "emoji": "🇦🇪",
-        "flag": "https://flagcdn.com/48x36/ae.png"
+        "flag": "https://flagcdn.com/48x36/ae.png",
+        "currency": "Dirham",
+        "continent": "Asia",
+        "states": [
+            "Abu Dhabi",
+            "Dubai",
+            "Sharjah",
+            "Ras Al Khaimah",
+            "Ajman",
+            "Umm Al Quwain",
+            "Fujairah"
+        ]
     },
     {
         "code": "AF",
         "unicode": "U+1F1E6 U+1F1EB",
         "name": "Afghanistan",
         "emoji": "🇦🇫",
-        "flag": "https://flagcdn.com/48x36/af.png"
+        "flag": "https://flagcdn.com/48x36/af.png",
+        "currency": "Afghan afghani",
+        "continent": "Asia",
+        "states": [
+            "Badakhshan",
+            "Badghis",
+            "Baghlan",
+            "Balkh",
+            "Bamyan",
+            "Daikondi",
+            "Farah",
+            "Faryab",
+            "Ghazni",
+            "Ghor",
+            "Helmand",
+            "Herat",
+            "Jowzjan",
+            "Kabul",
+            "Kandahar",
+            "Kapisa",
+            "Khowst",
+            "Kunar",
+            "Kunduz",
+            "Laghman",
+            "Logar",
+            "Nangarhar",
+            "Nimroz",
+            "Oruzgan",
+            "Paktika",
+            "Paktya",
+            "Panjshir",
+            "Parwan",
+            "Samangan",
+            "Sar-e Pol",
+            "Takhar",
+            "Uruzgan",
+            "Wardak",
+            "Zabul"
+        ]
     },
     {
         "code": "AG",
         "unicode": "U+1F1E6 U+1F1EC",
         "name": "Antigua & Barbuda",
         "emoji": "🇦🇬",
-        "flag": "https://flagcdn.com/48x36/ag.png"
+        "flag": "https://flagcdn.com/48x36/ag.png",
+        "currency": "Eastern Caribbean dollar",
+        "continent": "North America",
+        "states": [
+            "Saint George",
+            "Saint John",
+            "Saint Mary",
+            "Saint Paul",
+            "Saint Peter",
+            "Saint Philip",
+            "Barbuda",
+            "Redonda"
+        ]
     },
     {
         "code": "AI",
         "unicode": "U+1F1E6 U+1F1EE",
         "name": "Anguilla",
         "emoji": "🇦🇮",
-        "flag": "https://flagcdn.com/48x36/ai.png"
+        "flag": "https://flagcdn.com/48x36/ai.png",
+        "currency": "Eastern Caribbean dollar",
+        "continent": "North America",
+        "states": []
     },
     {
         "code": "AL",
         "unicode": "U+1F1E6 U+1F1F1",
         "name": "Albania",
         "emoji": "🇦🇱",
-        "flag": "https://flagcdn.com/48x36/al.png"
+        "flag": "https://flagcdn.com/48x36/al.png",
+        "currency": "Albanian lek",
+        "continent": "Europe",
+        "states": [
+            "Berat County",
+            "Berat District",
+            "Bulqizë District",
+            "Delvinë District",
+            "Devoll District",
+            "Dibër County",
+            "Dibër District",
+            "Durrës County",
+            "Durrës District",
+            "Elbasan County",
+            "Fier County",
+            "Fier District",
+            "Gjirokastër County",
+            "Gjirokastër District",
+            "Gramsh District",
+            "Has District",
+            "Kavajë District",
+            "Kolonjë District",
+            "Korçë County",
+            "Korçë District",
+            "Krujë District",
+            "Kuçovë District",
+            "Kukës County",
+            "Kukës District",
+            "Kurbin District",
+            "Lezhë County",
+            "Lezhë District",
+            "Librazhd District",
+            "Lushnjë District",
+            "Malësi e Madhe District",
+            "Mallakastër District",
+            "Mat District",
+            "Mirditë District",
+            "Përmet District",
+            "Peqin District",
+            "Pogradec District",
+            "Pukë District",
+            "Sarandë District",
+            "Shkodër County",
+            "Shkodër District",
+            "Skrapar District",
+            "Tepelenë District",
+            "Tirana County",
+            "Tirana District",
+            "Tropojë District",
+            "Vlorë County",
+            "Vlorë District"
+        ]
     },
     {
         "code": "AM",
         "unicode": "U+1F1E6 U+1F1F2",
         "name": "Armenia",
         "emoji": "🇦🇲",
-        "flag": "https://flagcdn.com/48x36/am.png"
+        "flag": "https://flagcdn.com/48x36/am.png",
+        "currency": "Armenian dram",
+        "continent": "Europe",
+        "states": [
+            "Aragatsotn",
+            "Ararat",
+            "Armavir",
+            "Gegharkunik",
+            "Kotayk",
+            "Lori",
+            "Shirak",
+            "Syunik",
+            "Tavush",
+            "Vayots Dzor",
+            "Yerevan"
+        ]
     },
     {
         "code": "AO",
         "unicode": "U+1F1E6 U+1F1F4",
         "name": "Angola",
         "emoji": "🇦🇴",
-        "flag": "https://flagcdn.com/48x36/ao.png"
-    },
-    {
-        "code": "AQ",
-        "unicode": "U+1F1E6 U+1F1F6",
-        "name": "Antarctica",
-        "emoji": "🇦🇶",
-        "flag": "https://flagcdn.com/48x36/aq.png"
+        "flag": "https://flagcdn.com/48x36/ao.png",
+        "currency": "Angolan kwanza",
+        "continent": "Africa",
+        "states": [
+            "Bengo",
+            "Benguela",
+            "Bié",
+            "Cabinda",
+            "Cuando Cubango",
+            "Cuanza Norte",
+            "Cuanza Sul",
+            "Cunene",
+            "Huambo",
+            "Huíla",
+            "Luanda",
+            "Lunda Norte",
+            "Lunda Sul",
+            "Malanje",
+            "Moxico",
+            "Namibe",
+            "Uíge",
+            "Zaire"
+        ]
     },
     {
         "code": "AR",
         "unicode": "U+1F1E6 U+1F1F7",
         "name": "Argentina",
         "emoji": "🇦🇷",
-        "flag": "https://flagcdn.com/48x36/ar.png"
+        "flag": "https://flagcdn.com/48x36/ar.png",
+        "currency": "Argentine peso",
+        "continent": "South America",
+        "states": [
+            "Catamarca",
+            "Chaco",
+            "Chubut",
+            "Ciudad De Buenos Aires",
+            "Cordoba",
+            "Corrientes",
+            "Entre Rios",
+            "Formosa",
+            "Jujuy",
+            "La Pampa",
+            "La Rioja",
+            "Mendoza",
+            "Misiones",
+            "Neuquen",
+            "Rio Negro",
+            "Salta",
+            "San Juan",
+            "San Luis",
+            "Santa Cruz",
+            "Santa Fe",
+            "Santiago Del Estero",
+            "Tierra Del Fuego",
+            "Tucuman"
+        ]
     },
     {
         "code": "AS",
         "unicode": "U+1F1E6 U+1F1F8",
         "name": "American Samoa",
         "emoji": "🇦🇸",
-        "flag": "https://flagcdn.com/48x36/as.png"
+        "flag": "https://flagcdn.com/48x36/as.png",
+        "currency": "United States Dollar",
+        "continent": "Oceania",
+        "states": [
+            "Aunu'u",
+            "Fofo",
+            "Itu'au",
+            "Lealataua",
+            "Leasina",
+            "Ma'oputasi",
+            "Sa'ole",
+            "Sua",
+            "Tualatai",
+            "Tualauta",
+            "Tutuila",
+            "Vaifanua"
+        ]
     },
     {
         "code": "AT",
         "unicode": "U+1F1E6 U+1F1F9",
         "name": "Austria",
         "emoji": "🇦🇹",
-        "flag": "https://flagcdn.com/48x36/at.png"
+        "flag": "https://flagcdn.com/48x36/at.png",
+        "currency": "Euro",
+        "continent": "Europe",
+        "states": [
+            "Vienna (Wien)",
+            "Lower Austria (Niederösterreich)",
+            "Upper Austria (Oberösterreich)",
+            "Styria (Steiermark)",
+            "Tyrol (Tirol)",
+            "Carinthia (Kärnten)",
+            "Salzburg",
+            "Vorarlberg",
+            "Burgenland"
+        ]
     },
     {
         "code": "AU",
         "unicode": "U+1F1E6 U+1F1FA",
         "name": "Australia",
         "emoji": "🇦🇺",
-        "flag": "https://flagcdn.com/48x36/au.png"
+        "flag": "https://flagcdn.com/48x36/au.png",
+        "currency": "Australian dollar",
+        "continent": "Australia",
+        "states": [
+            "New South Wales",
+            "Queensland",
+            "Northern Territory",
+            "Western Australia",
+            "South Australia",
+            "Victoria",
+            "the Australian Capital Territory",
+            "Tasmania"
+        ]
     },
     {
         "code": "AW",
@@ -1805,4 +2022,4 @@
         "emoji": "🇿🇼",
         "flag": "https://flagcdn.com/48x36/zw.png"
     }
-]  
+]
