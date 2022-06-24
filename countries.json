@@ -422,7 +422,10 @@
         "unicode": "U+1F1E7 U+1F1E9",
         "name": "Bangladesh",
         "emoji": "🇧🇩",
-        "flag": "https://flagcdn.com/48x36/bd.png"
+        "flag": "https://flagcdn.com/48x36/bd.png",
+        "currency": "Bangladeshi taka",
+        "continent": "Asiadd",
+        "states": []
     },
     {
         "code": "BE",
