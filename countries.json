@@ -319,35 +319,91 @@
         "unicode": "U+1F1E6 U+1F1FC",
         "name": "Aruba",
         "emoji": "🇦🇼",
-        "flag": "https://flagcdn.com/48x36/aw.png"
+        "flag": "https://flagcdn.com/48x36/aw.png",
+        "currency": "Aruban florin",
+        "continent": "South America",
+        "states": []
     },
     {
         "code": "AX",
         "unicode": "U+1F1E6 U+1F1FD",
         "name": "Åland Islands",
         "emoji": "🇦🇽",
-        "flag": "https://flagcdn.com/48x36/ax.png"
+        "flag": "https://flagcdn.com/48x36/ax.png",
+        "currency": "Euro",
+        "continent": "South America",
+        "states": [
+            "Maarianhamina",
+            "Jomala",
+            "Finström",
+            "Lemland",
+            "Saltvik",
+            "Hammarland",
+            "Sund",
+            "Eckerö",
+            "Föglö",
+            "Geta",
+            "Vårdö",
+            "Brändö",
+            "Lumparland",
+            "Kumlinge",
+            "Kökar",
+            "Sottunga"
+        ]
     },
     {
         "code": "AZ",
         "unicode": "U+1F1E6 U+1F1FF",
         "name": "Azerbaijan",
         "emoji": "🇦🇿",
-        "flag": "https://flagcdn.com/48x36/az.png"
+        "flag": "https://flagcdn.com/48x36/az.png",
+        "currency": "Azerbaijani manat",
+        "continent": "Europe",
+        "states": [
+            "Baku",
+            "Sumqayıt",
+            "Gəncə",
+            "Lənkəran",
+            "Mingəçevir",
+            "Naxçıvan",
+            "Şirvan",
+            "Şəki",
+            "Yevlax"
+        ]
     },
     {
         "code": "BA",
         "unicode": "U+1F1E7 U+1F1E6",
         "name": "Bosnia & Herzegovina",
         "emoji": "🇧🇦",
-        "flag": "https://flagcdn.com/48x36/ba.png"
+        "flag": "https://flagcdn.com/48x36/ba.png",
+        "currency": "Bosnia-Herzegovina Convertible Mark",
+        "continent": "Europe",
+        "states": [
+            "Bosnian Podrinje Canton",
+            "Brčko District",
+            "Canton",
+            "Central Bosnia Canton",
+            "Federation of Bosnia and Herzegovina",
+            "Herzegovina-Neretva Canton",
+            "Posavina Canton",
+            "Republika Srpska",
+            "Sarajevo Canton",
+            "Tuzla Canton",
+            "Una-Sana Canton",
+            "West Herzegovina Canton",
+            "Zenica-Doboj Canton"
+        ]
     },
     {
         "code": "BB",
         "unicode": "U+1F1E7 U+1F1E7",
         "name": "Barbados",
         "emoji": "🇧🇧",
-        "flag": "https://flagcdn.com/48x36/bb.png"
+        "flag": "https://flagcdn.com/48x36/bb.png",
+        "currency": "The Barbados Dollar",
+        "continent": "South America",
+        "states": []
     },
     {
         "code": "BD",
