@@ -425,7 +425,20 @@
         "flag": "https://flagcdn.com/48x36/bd.png",
         "currency": "Bangladeshi taka",
         "continent": "Asia",
-        "states": []
+        "states": [
+            "Dhaka North",
+            "Dhaka South",
+            "Chittagong",
+            "Khulna",
+            "Rajshahi",
+            "Sylhet",
+            "Comilla",
+            "Gazipur",
+            "Mymensingh",
+            "Barisal",
+            "Rangpur",
+            "Narayanganj"
+        ]
     },
     {
         "code": "BE",
