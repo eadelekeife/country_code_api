@@ -403,7 +403,19 @@
         "flag": "https://flagcdn.com/48x36/bb.png",
         "currency": "The Barbados Dollar",
         "continent": "North America",
-        "states": []
+        "states": [
+            "The Parish of St Lucy",
+            "The Parish of St Thomas",
+            "The Parish of St John",
+            "The Parish of St Philip",
+            "The Parish of St Andrew",
+            "The Parish of St James",
+            "The Parish of Christ Church",
+            "The Parish of St Michael",
+            "The Parish of St.Peter",
+            "The Parish of St.Joseph",
+            "The Parish of St.George"
+        ]
     },
     {
         "code": "BD",
