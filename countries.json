@@ -463,7 +463,10 @@
         "unicode": "U+1F1E7 U+1F1EB",
         "name": "Burkina Faso",
         "emoji": "🇧🇫",
-        "flag": "https://flagcdn.com/48x36/bf.png"
+        "flag": "https://flagcdn.com/48x36/bf.png",
+        "currency": "West African CFA franc",
+        "continent": "South America",
+        "states": []
     },
     {
         "code": "BG",
