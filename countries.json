@@ -654,9 +654,14 @@
         "name": "Brunei",
         "emoji": "🇧🇳",
         "flag": "https://flagcdn.com/48x36/bn.png",
-        "currency": "Bahraini dinar",
+        "currency": "Brunei dollar",
         "continent": "Asia",
-        "states": []
+        "states": [
+            "Brunei-Muara",
+            "Belait",
+            "Tutong",
+            "Temburong"
+        ]
     },
     {
         "code": "BO",
