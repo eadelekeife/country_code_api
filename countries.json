@@ -636,7 +636,17 @@
         "flag": "https://flagcdn.com/48x36/bm.png",
         "currency": "Bermudian dollar",
         "continent": "North America",
-        "states": []
+        "states": [
+            "Devonshire",
+            "Hamilton",
+            "Paget",
+            "Pembroke",
+            "St George's",
+            "Sandys",
+            "Smith's",
+            "Southampton",
+            "Warwick"
+        ]
     },
     {
         "code": "BN",
