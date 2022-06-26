@@ -600,7 +600,23 @@
         "unicode": "U+1F1E7 U+1F1EF",
         "name": "Benin",
         "emoji": "🇧🇯",
-        "flag": "https://flagcdn.com/48x36/bj.png"
+        "flag": "https://flagcdn.com/48x36/bj.png",
+        "currency": "West African CFA franc",
+        "continent": "Africa",
+        "states": [
+            "Kandi",
+            "Natitingou",
+            "Ouidah",
+            "Parakou",
+            "Savalou",
+            "Dogbo-Tota",
+            "Djougou",
+            "Cotonou",
+            "Lokossa",
+            "Porto-Novo",
+            "Sakété",
+            "Abomey"
+        ]
     },
     {
         "code": "BL",
