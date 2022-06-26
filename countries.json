@@ -623,7 +623,10 @@
         "unicode": "U+1F1E7 U+1F1F1",
         "name": "St. Barthélemy",
         "emoji": "🇧🇱",
-        "flag": "https://flagcdn.com/48x36/bl.png"
+        "flag": "https://flagcdn.com/48x36/bl.png",
+        "currency": "Bahraini dinar",
+        "continent": "Asia",
+        "states": []
     },
     {
         "code": "BM",
