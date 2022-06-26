@@ -653,7 +653,10 @@
         "unicode": "U+1F1E7 U+1F1F3",
         "name": "Brunei",
         "emoji": "🇧🇳",
-        "flag": "https://flagcdn.com/48x36/bn.png"
+        "flag": "https://flagcdn.com/48x36/bn.png",
+        "currency": "Bahraini dinar",
+        "continent": "Asia",
+        "states": []
     },
     {
         "code": "BO",
