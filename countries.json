@@ -633,7 +633,10 @@
         "unicode": "U+1F1E7 U+1F1F2",
         "name": "Bermuda",
         "emoji": "🇧🇲",
-        "flag": "https://flagcdn.com/48x36/bm.png"
+        "flag": "https://flagcdn.com/48x36/bm.png",
+        "currency": "Bermudian dollar",
+        "continent": "North America",
+        "states": []
     },
     {
         "code": "BN",
