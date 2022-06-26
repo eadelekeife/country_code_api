@@ -576,10 +576,23 @@
         "currency": "Burundian franc",
         "continent": "Africa",
         "states": [
-            "Light Blue Northern Governorate",
-            "Gold Muharraq Governorate",
-            "Pink Southern Governorate",
-            "Yellow Capital Governorate"
+            "Bubanza",
+            "Bujumbura Mairie (City of Bujumbura)",
+            "Bujumbura Rural",
+            "Bururi",
+            "Cankuzo",
+            "Cibitoke",
+            "Gitega",
+            "Karuzi",
+            "Kayanza",
+            "Kirundo",
+            "Makamba",
+            "Muramvya",
+            "Muyinga",
+            "Mwaro",
+            "Ngozi",
+            "Rutana",
+            "Ruyigi"
         ]
     },
     {
