@@ -572,7 +572,15 @@
         "unicode": "U+1F1E7 U+1F1EE",
         "name": "Burundi",
         "emoji": "🇧🇮",
-        "flag": "https://flagcdn.com/48x36/bi.png"
+        "flag": "https://flagcdn.com/48x36/bi.png",
+        "currency": "Burundian franc",
+        "continent": "Africa",
+        "states": [
+            "Light Blue Northern Governorate",
+            "Gold Muharraq Governorate",
+            "Pink Southern Governorate",
+            "Yellow Capital Governorate"
+        ]
     },
     {
         "code": "BJ",
