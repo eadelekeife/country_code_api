@@ -5,7 +5,7 @@
         "name": "Andorra",
         "emoji": "🇦🇩",
         "flag": "https://flagcdn.com/48x36/ad.png",
-        "currency": "Euro",
+        "currency": "Euro - €",
         "continent": "Europe",
         "states": [
             "Andorra la Vella",
@@ -281,7 +281,7 @@
         "name": "Austria",
         "emoji": "🇦🇹",
         "flag": "https://flagcdn.com/48x36/at.png",
-        "currency": "Euro",
+        "currency": "Euro - €",
         "continent": "Europe",
         "states": [
             "Vienna (Wien)",
@@ -330,7 +330,7 @@
         "name": "Åland Islands",
         "emoji": "🇦🇽",
         "flag": "https://flagcdn.com/48x36/ax.png",
-        "currency": "Euro",
+        "currency": "Euro - €",
         "continent": "South America",
         "states": [
             "Maarianhamina",
@@ -442,7 +442,7 @@
         "name": "Belgium",
         "emoji": "🇧🇪",
         "flag": "https://flagcdn.com/48x36/be.png",
-        "currency": "Euro",
+        "currency": "Euro - €",
         "continent": "Europe",
         "states": [
             "Antwerpen",
@@ -624,7 +624,7 @@
         "name": "St. Barthélemy",
         "emoji": "🇧🇱",
         "flag": "https://flagcdn.com/48x36/bl.png",
-        "currency": "Euro",
+        "currency": "Euro - €",
         "continent": "North America",
         "states": []
     },
@@ -634,7 +634,7 @@
         "name": "Bermuda",
         "emoji": "🇧🇲",
         "flag": "https://flagcdn.com/48x36/bm.png",
-        "currency": "Bermudian dollar",
+        "currency": "Bermudian dollar - $",
         "continent": "North America",
         "states": [
             "Devonshire",
@@ -654,7 +654,7 @@
         "name": "Brunei",
         "emoji": "🇧🇳",
         "flag": "https://flagcdn.com/48x36/bn.png",
-        "currency": "Brunei dollar",
+        "currency": "Brunei dollar - B$",
         "continent": "Asia",
         "states": [
             "Brunei-Muara",
@@ -669,7 +669,7 @@
         "name": "Bolivia",
         "emoji": "🇧🇴",
         "flag": "https://flagcdn.com/48x36/bo.png",
-        "currency": "Bolivian Boliviano",
+        "currency": "Bolivian Boliviano - Bs.",
         "continent": "South America",
         "states": [
             "Chuquisaca",
@@ -689,7 +689,7 @@
         "name": "Caribbean Netherlands",
         "emoji": "🇧🇶",
         "flag": "https://flagcdn.com/48x36/bq.png",
-        "currency": "Euro",
+        "currency": "Euro - €",
         "continent": "South America",
         "states": [
             "Bonaire",
@@ -793,7 +793,7 @@
         "name": "Bhutan",
         "emoji": "🇧🇹",
         "flag": "https://flagcdn.com/48x36/bt.png",
-        "currency": "Bhutanese ngultrum",
+        "currency": "Bhutanese ngultrum - Nu.",
         "continent": "Asia",
         "states": [
             "Bumthang",
@@ -824,8 +824,8 @@
         "name": "Bouvet Island",
         "emoji": "🇧🇻",
         "flag": "https://flagcdn.com/48x36/bv.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Norwegian krone - Kr",
+        "continent": "Antarctica",
         "states": []
     },
     {
@@ -834,9 +834,20 @@
         "name": "Botswana",
         "emoji": "🇧🇼",
         "flag": "https://flagcdn.com/48x36/bw.png",
-        "currency": "",
-        "continent": "",
-        "states": []
+        "currency": "Botswana pula - P",
+        "continent": "Africa",
+        "states": [
+            "Southern District",
+            "South-East District",
+            "Kweneng District",
+            "Kgatleng District",
+            "Central District",
+            "North-East District",
+            "Ngamiland District",
+            "Kgalagadi District",
+            "Chobe District",
+            "Ghanzi District"
+        ]
     },
     {
         "code": "BY",
