@@ -702,7 +702,15 @@
         "unicode": "U+1F1E7 U+1F1F7",
         "name": "Brazil",
         "emoji": "🇧🇷",
-        "flag": "https://flagcdn.com/48x36/br.png"
+        "flag": "https://flagcdn.com/48x36/br.png",
+        "currency": "Brazilian Real",
+        "continent": "Asia",
+        "states": [
+            "Brunei-Muara",
+            "Belait",
+            "Tutong",
+            "Temburong"
+        ]
     },
     {
         "code": "BS",
