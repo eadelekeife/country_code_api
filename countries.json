@@ -985,9 +985,22 @@
         "name": "Congo - Brazzaville",
         "emoji": "🇨🇬",
         "flag": "https://flagcdn.com/48x36/cg.png",
-        "currency": "",
-        "continent": "",
-        "states": []
+        "currency": "Central African CFA franc - FCFA",
+        "continent": "Africa",
+        "states": [
+            "Bouenza",
+            "Cuvette",
+            "Cuvette-Ouest",
+            "Kouilou",
+            "Lékoumou",
+            "Brazzaville",
+            "Likouala",
+            "Niari",
+            "Plateaux",
+            "Pool (Kinkala)",
+            "Sangha",
+            "Pointe Noire"
+        ]
     },
     {
         "code": "CH",
@@ -995,8 +1008,8 @@
         "name": "Switzerland",
         "emoji": "🇨🇭",
         "flag": "https://flagcdn.com/48x36/ch.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Swiss franc - CHf",
+        "continent": "Europe",
         "states": []
     },
     {
