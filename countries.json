@@ -688,7 +688,15 @@
         "unicode": "U+1F1E7 U+1F1F6",
         "name": "Caribbean Netherlands",
         "emoji": "🇧🇶",
-        "flag": "https://flagcdn.com/48x36/bq.png"
+        "flag": "https://flagcdn.com/48x36/bq.png",
+        "currency": "Brunei dollar",
+        "continent": "Asia",
+        "states": [
+            "Brunei-Muara",
+            "Belait",
+            "Tutong",
+            "Temburong"
+        ]
     },
     {
         "code": "BR",
