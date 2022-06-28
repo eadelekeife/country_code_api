@@ -855,9 +855,16 @@
         "name": "Belarus",
         "emoji": "🇧🇾",
         "flag": "https://flagcdn.com/48x36/by.png",
-        "currency": "",
-        "continent": "",
-        "states": []
+        "currency": "Belarusian Ruble - Br",
+        "continent": "Europe",
+        "states": [
+            "Brest Oblast",
+            "Vitebsk Oblast",
+            "Gomel Oblast",
+            "Grodno Oblast",
+            "Minsk Oblast",
+            "Mogilev Oblast"
+        ]
     },
     {
         "code": "BZ",
@@ -865,9 +872,16 @@
         "name": "Belize",
         "emoji": "🇧🇿",
         "flag": "https://flagcdn.com/48x36/bz.png",
-        "currency": "",
-        "continent": "",
-        "states": []
+        "currency": "Belize dollar - $",
+        "continent": "North America",
+        "states": [
+            "Corozal",
+            "Orange Walk",
+            "Belize",
+            "Cayo",
+            "Stann Creek",
+            "Toledo"
+        ]
     },
     {
         "code": "CA",
@@ -877,7 +891,18 @@
         "flag": "https://flagcdn.com/48x36/ca.png",
         "currency": "",
         "continent": "",
-        "states": []
+        "states": [
+            "Alberta",
+"British Columbia",
+"Manitoba",
+"New Brunswick",
+"Newfoundland and Labrador",
+"Nova Scotia",
+"Ontario",
+"Prince Edward Island",
+"Quebec",
+"Saskatchewan"
+        ]
     },
     {
         "code": "CC",
