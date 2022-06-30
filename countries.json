@@ -1237,7 +1237,15 @@
         "flag": "https://flagcdn.com/48x36/cr.png",
         "currency": "Costa Rican colón - ₡",
         "continent": "North America",
-        "states": []
+        "states": [
+            "Alajuela",
+            "Cartago",
+            "Guanacaste",
+            "Heredia",
+            "Limon",
+            "Puntarenas",
+            "San Jose"
+        ]
     },
     {
         "code": "CU",
