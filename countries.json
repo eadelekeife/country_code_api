@@ -1128,7 +1128,18 @@
         "flag": "https://flagcdn.com/48x36/cm.png",
         "currency": "",
         "continent": "Africa",
-        "states": []
+        "states": [
+            "Adamaoua",
+            "Centre",
+            "Est",
+            "Extrême-Nord",
+            "Littoral",
+            "Nord",
+            "Nord-Ouest",
+            "Sud",
+            "Sud-Ouest",
+            "Ouest"
+        ]
     },
     {
         "code": "CN",
