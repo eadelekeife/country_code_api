@@ -1126,7 +1126,7 @@
         "name": "Cameroon",
         "emoji": "🇨🇲",
         "flag": "https://flagcdn.com/48x36/cm.png",
-        "currency": "",
+        "currency": "Central African CFA franc - FCFA",
         "continent": "Africa",
         "states": [
             "Adamaoua",
@@ -1147,7 +1147,7 @@
         "name": "China",
         "emoji": "🇨🇳",
         "flag": "https://flagcdn.com/48x36/cn.png",
-        "currency": "",
+        "currency": "Yen - ¥",
         "continent": "",
         "states": []
     },
