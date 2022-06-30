@@ -1101,7 +1101,24 @@
         "flag": "https://flagcdn.com/48x36/cl.png",
         "currency": "Chilean peso - $",
         "continent": "South America",
-        "states": []
+        "states": [
+            "Región de Arica y Parinacota",
+            "Región de Tarapacá",
+            "Región de Antofagasta",
+            "Región de Atacama",
+            "Región de Coquimbo",
+            "Región de Valparaíso",
+            "Región Metropolitana de Santiago",
+            "Región del Libertador General Bernardo O'Higgins",
+            "Región del Maule",
+            "Región de Ñuble",
+            "Región del Biobío",
+            "Región de La Araucanía",
+            "Región de Los Ríos",
+            "Región de Los Lagos",
+            "Región Aysén del General Carlos Ibáñez del Campo",
+            "Región de Magallanes y de la Antártica Chilena"
+        ]
     },
     {
         "code": "CM",
