@@ -1099,8 +1099,8 @@
         "name": "Chile",
         "emoji": "🇨🇱",
         "flag": "https://flagcdn.com/48x36/cl.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Chilean peso - $",
+        "continent": "South America",
         "states": []
     },
     {
