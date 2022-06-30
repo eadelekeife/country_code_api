@@ -1230,22 +1230,12 @@
         ]
     },
     {
-        "code": "CP",
-        "unicode": "U+1F1E8 U+1F1F5",
-        "name": "Clipperton Island",
-        "emoji": "🇨🇵",
-        "flag": "https://flagcdn.com/48x36/cp.png",
-        "currency": "",
-        "continent": "",
-        "states": []
-    },
-    {
         "code": "CR",
         "unicode": "U+1F1E8 U+1F1F7",
         "name": "Costa Rica",
         "emoji": "🇨🇷",
         "flag": "https://flagcdn.com/48x36/cr.png",
-        "currency": "",
+        "currency": "Costa Rican colón - ₡",
         "continent": "",
         "states": []
     },
