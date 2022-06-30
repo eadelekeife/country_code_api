@@ -1147,8 +1147,8 @@
         "name": "China",
         "emoji": "🇨🇳",
         "flag": "https://flagcdn.com/48x36/cn.png",
-        "currency": "Yen - ¥",
-        "continent": "",
+        "currency": "Renminbi - ¥",
+        "continent": "Asia",
         "states": []
     },
     {
