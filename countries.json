@@ -1255,7 +1255,23 @@
         "flag": "https://flagcdn.com/48x36/cu.png",
         "currency": "Cuban Peso - $",
         "continent": "North America",
-        "states": []
+        "states": [
+            "Camaguey",
+            "Ciego De Avila",
+            "Cienfuegos",
+            "Ciudad De La Habana",
+            "Granma",
+            "Guantanamo",
+            "Holguin",
+            "Isla De La Juventud",
+            "La Habana",
+            "Las Tunas",
+            "Matanzas",
+            "Pinar Del Rio",
+            "Sancti Spiritus",
+            "Santiago De Cuba",
+            "Villa Clara"
+        ]
     },
     {
         "code": "CV",
