@@ -1554,23 +1554,13 @@
         ]
     },
     {
-        "code": "EA",
-        "unicode": "U+1F1EA U+1F1E6",
-        "name": "Ceuta & Melilla",
-        "emoji": "🇪🇦",
-        "flag": "https://flagcdn.com/48x36/ea.png",
-        "currency": "",
-        "continent": "",
-        "states": []
-    },
-    {
         "code": "EC",
         "unicode": "U+1F1EA U+1F1E8",
         "name": "Ecuador",
         "emoji": "🇪🇨",
         "flag": "https://flagcdn.com/48x36/ec.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "South America",
         "states": []
     },
     {
