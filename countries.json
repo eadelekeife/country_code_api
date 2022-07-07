@@ -1726,9 +1726,29 @@
         "name": "Finland",
         "emoji": "🇫🇮",
         "flag": "https://flagcdn.com/48x36/fi.png",
-        "currency": "",
+        "currency": "Euro - €",
         "continent": "Europe",
-        "states": []
+        "states": [
+            "Lappi",
+            "North Ostrobothnia",
+            "Kainuu",
+            "Pohjois-Karjala",
+            "Pohjois-Savo",
+            "Etelä-Savo",
+            "Etelä-Karjala",
+            "Keski-Suomi",
+            "Etelä-Pohjanmaa",
+            "Pohjanmaa",
+            "Keski-Pohjanmaa",
+            "Pirkanmaa",
+            "Satakunta",
+            "Päijät-Häme",
+            "Kanta-Häme",
+            "Kymenlaakso",
+            "Uusimaa",
+            "Varsinais-Suomi",
+            "Åland"
+        ]
     },
     {
         "code": "FJ",
