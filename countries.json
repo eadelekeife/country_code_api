@@ -1326,9 +1326,11 @@
         "name": "Cyprus",
         "emoji": "🇨🇾",
         "flag": "https://flagcdn.com/48x36/cy.png",
-        "currency": "Euro",
+        "currency": "Euro - €",
         "continent": "Europe",
-        "states": []
+        "states": [
+            
+        ]
     },
     {
         "code": "CZ",
