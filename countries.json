@@ -1561,7 +1561,32 @@
         "flag": "https://flagcdn.com/48x36/ec.png",
         "currency": "United States Dollar - $",
         "continent": "South America",
-        "states": []
+        "states": [
+            "Azuay",
+            "Bolívar",
+            "Cañar",
+            "Carchi",
+            "Chimborazo",
+            "Cotopaxi",
+            "El Oro",
+            "Esmeraldas",
+            "Galápagos",
+            "Guayas",
+            "Imbabura",
+            "Loja",
+            "Los Ríos",
+            "Manabí",
+            "Morona Santiago",
+            "Napo",
+            "Orellana",
+            "Pastaza",
+            "Pichincha",
+            "Santa Elena",
+            "Santo Domingo de los Tsáchilas ",
+            "Sucumbíos ",
+            "Tungurahua",
+            "Zamora-Chinchipe"
+        ]
     },
     {
         "code": "EE",
