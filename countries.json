@@ -1329,7 +1329,12 @@
         "currency": "Euro - €",
         "continent": "Europe",
         "states": [
-            
+            "Nicosia",
+"Larnaca",
+"Limassol",
+"Paphos",
+"Famagusta",
+"Kyrenia"
         ]
     },
     {
