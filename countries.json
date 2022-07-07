@@ -1411,14 +1411,14 @@
         "name": "Denmark",
         "emoji": "🇩🇰",
         "flag": "https://flagcdn.com/48x36/dk.png",
-        "currency": "Danish krone",
-        "continent": "Europe - Kr",
+        "currency": "Danish krone - Kr",
+        "continent": "Europe",
         "states": [
             "Region Hovedstaden",
-"Region Midtjylland",
-"Region Nordjylland",
-"Region Sjælland",
-"Region Syddanmark"
+            "Region Midtjylland",
+            "Region Nordjylland",
+            "Region Sjælland",
+            "Region Syddanmark"
         ]
     },
     {
