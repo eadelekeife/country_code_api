@@ -1781,9 +1781,12 @@
         "name": "Falkland Islands",
         "emoji": "🇫🇰",
         "flag": "https://flagcdn.com/48x36/fk.png",
-        "currency": "",
-        "continent": "",
-        "states": []
+        "currency": "Falkland Islands pound - £",
+        "continent": "South America",
+        "states": [
+            "West Falkland",
+            "East Falkland"
+        ]
     },
     {
         "code": "FM",
@@ -1791,9 +1794,14 @@
         "name": "Micronesia",
         "emoji": "🇫🇲",
         "flag": "https://flagcdn.com/48x36/fm.png",
-        "currency": "",
-        "continent": "",
-        "states": []
+        "currency": "United States Dollar - $",
+        "continent": "Oceania",
+        "states": [
+            "Yap",
+            "Chuuk",
+            "Pohnpei",
+            "Kosrae"
+        ]
     },
     {
         "code": "FO",
@@ -1802,7 +1810,7 @@
         "emoji": "🇫🇴",
         "flag": "https://flagcdn.com/48x36/fo.png",
         "currency": "",
-        "continent": "",
+        "continent": "Europe",
         "states": []
     },
     {
