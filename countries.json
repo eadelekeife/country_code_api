@@ -1809,9 +1809,16 @@
         "name": "Faroe Islands",
         "emoji": "🇫🇴",
         "flag": "https://flagcdn.com/48x36/fo.png",
-        "currency": "",
+        "currency": "Faroese króna - Kr",
         "continent": "Europe",
-        "states": []
+        "states": [
+            "Eysturoyar sýsla",
+            "Norðoya sýsla",
+            "Sandoyar sýsla",
+            "Streymoyar sýsla",
+            "Suðuroyar sýsla",
+            "Vága sýsla"
+        ]
     },
     {
         "code": "FR",
