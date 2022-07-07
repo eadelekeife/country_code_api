@@ -301,7 +301,7 @@
         "name": "Australia",
         "emoji": "🇦🇺",
         "flag": "https://flagcdn.com/48x36/au.png",
-        "currency": "Australian dollar",
+        "currency": "Australian dollar - AUD",
         "continent": "Australia",
         "states": [
             "New South Wales",
@@ -1316,8 +1316,8 @@
         "name": "Christmas Island",
         "emoji": "🇨🇽",
         "flag": "https://flagcdn.com/48x36/cx.png",
-        "currency": "Australian dollar -",
-        "continent": "",
+        "currency": "Australian dollar - AUD",
+        "continent": "Asia",
         "states": []
     },
     {
