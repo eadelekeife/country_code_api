@@ -1756,9 +1756,24 @@
         "name": "Fiji",
         "emoji": "🇫🇯",
         "flag": "https://flagcdn.com/48x36/fj.png",
-        "currency": "",
-        "continent": "",
-        "states": []
+        "currency": "Fijian Dollar - FJ$",
+        "continent": "Oceania",
+        "states": [
+            "Ba",
+            "Bua",
+            "Cakaudrove",
+            "Kadavu",
+            "Lau",
+            "Lomaiviti",
+            "Macuata",
+            "Nadroga-Navosa",
+            "Naitasiri",
+            "Namosi",
+            "Ra",
+            "Rewa",
+            "Serua",
+            "Tailevu"
+        ]
     },
     {
         "code": "FK",
