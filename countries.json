@@ -1653,23 +1653,13 @@
         ]
     },
     {
-        "code": "EH",
-        "unicode": "U+1F1EA U+1F1ED",
-        "name": "Western Sahara",
-        "emoji": "🇪🇭",
-        "flag": "https://flagcdn.com/48x36/eh.png",
-        "currency": "",
-        "continent": "",
-        "states": []
-    },
-    {
         "code": "ER",
         "unicode": "U+1F1EA U+1F1F7",
         "name": "Eritrea",
         "emoji": "🇪🇷",
         "flag": "https://flagcdn.com/48x36/er.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Eritrean nakfa - Nfk",
+        "continent": "Africa",
         "states": []
     },
     {
