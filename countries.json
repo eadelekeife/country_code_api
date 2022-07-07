@@ -1398,11 +1398,11 @@
         "continent": "Africa",
         "states": [
             "Région d'Ali Sabieh",
-"Région d'Arta",
-"Région de Dikhil",
-"Ville de Djibouti",
-"Région d'Obock",
-"Région de Tadjourah"
+            "Région d'Arta",
+            "Région de Dikhil",
+            "Ville de Djibouti",
+            "Région d'Obock",
+            "Région de Tadjourah"
         ]
     },
     {
@@ -1413,7 +1413,13 @@
         "flag": "https://flagcdn.com/48x36/dk.png",
         "currency": "",
         "continent": "",
-        "states": []
+        "states": [
+            "Region Hovedstaden",
+"Region Midtjylland",
+"Region Nordjylland",
+"Region Sjælland",
+"Region Syddanmark"
+        ]
     },
     {
         "code": "DM",
