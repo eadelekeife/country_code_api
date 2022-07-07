@@ -1660,7 +1660,14 @@
         "flag": "https://flagcdn.com/48x36/er.png",
         "currency": "Eritrean nakfa - Nfk",
         "continent": "Africa",
-        "states": []
+        "states": [
+            "Anseba Region",
+            "Central (Maekel) Region",
+            "Gash-Barka Region",
+            "Northern Red Sea Region",
+            "Southern (Debub) Region",
+            "Southern Red Sea Region"
+        ]
     },
     {
         "code": "ES",
