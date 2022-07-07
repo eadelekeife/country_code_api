@@ -1594,9 +1594,25 @@
         "name": "Estonia",
         "emoji": "🇪🇪",
         "flag": "https://flagcdn.com/48x36/ee.png",
-        "currency": "",
-        "continent": "",
-        "states": []
+        "currency": "Euro - €",
+        "continent": "Europe",
+        "states": [
+            "Harju County",
+            "Hiiu County",
+            "Ida-Viru County",
+            "Jõgeva County",
+            "Järva County",
+            "Lääne County",
+            "Lääne-Viru County",
+            "Põlva County",
+            "Pärnu County",
+            "Rapla County",
+            "Saare County",
+            "Tartu County",
+            "Valga County",
+            "Viljandi County",
+            "Võru County"
+        ]
     },
     {
         "code": "EG",
