@@ -1396,7 +1396,14 @@
         "flag": "https://flagcdn.com/48x36/dj.png",
         "currency": "Djiboutian franc - Fdj",
         "continent": "Africa",
-        "states": []
+        "states": [
+            "Région d'Ali Sabieh",
+"Région d'Arta",
+"Région de Dikhil",
+"Ville de Djibouti",
+"Région d'Obock",
+"Région de Tadjourah"
+        ]
     },
     {
         "code": "DK",
