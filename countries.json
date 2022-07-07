@@ -1369,7 +1369,24 @@
         "flag": "https://flagcdn.com/48x36/de.png",
         "currency": "",
         "continent": "",
-        "states": []
+        "states": [
+            "Baden-Württemberg",
+"Bayern (Bavaria)",
+"Berlin",
+"Brandenburg",
+"Bremen",
+"Hamburg",
+"Hessen",
+"Mecklenburg-Vorpommern",
+"Niedersachsen (Lower Saxony)",
+"Nordrhein-Westfalen (North Rhine-Westphalia)",
+"Rheinland-Pfalz (Rhineland-Palatinate)",
+"Saarland",
+"Sachsen (Saxony)",
+"Sachsen-Anhalt (Saxony-Anhalt)",
+"Schleswig-Holstein",
+"Thüringen (Thuringia)",
+        ]
     },
     {
         "code": "DG",
