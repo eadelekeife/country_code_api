@@ -1330,11 +1330,11 @@
         "continent": "Europe",
         "states": [
             "Nicosia",
-"Larnaca",
-"Limassol",
-"Paphos",
-"Famagusta",
-"Kyrenia"
+            "Larnaca",
+            "Limassol",
+            "Paphos",
+            "Famagusta",
+            "Kyrenia"
         ]
     },
     {
@@ -1344,7 +1344,7 @@
         "emoji": "🇨🇿",
         "flag": "https://flagcdn.com/48x36/cz.png",
         "currency": "",
-        "continent": "",
+        "continent": "Europe",
         "states": []
     },
     {
