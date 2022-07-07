@@ -1345,7 +1345,21 @@
         "flag": "https://flagcdn.com/48x36/cz.png",
         "currency": "Czech koruna - Kč",
         "continent": "Europe",
-        "states": []
+        "states": [
+            "Karlovy Vary Region",
+"Liberec Region",
+"Moravian- Silesian Region",
+"The Pardubice Region",
+"The Ústí Region",
+"Vysočina Region",
+"Zlín Region",
+"South Bohemian Region",
+"Hradec Králové Region",
+"The Olomouc Region",
+"The Pilsen Region",
+"Central Bohemia Region",
+"Southern Moravia Region"
+        ]
     },
     {
         "code": "DE",
