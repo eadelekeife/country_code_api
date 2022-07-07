@@ -1385,18 +1385,8 @@
             "Sachsen (Saxony)",
             "Sachsen-Anhalt (Saxony-Anhalt)",
             "Schleswig-Holstein",
-            "Thüringen (Thuringia)",
+            "Thüringen (Thuringia)"
         ]
-    },
-    {
-        "code": "DG",
-        "unicode": "U+1F1E9 U+1F1EC",
-        "name": "Diego Garcia",
-        "emoji": "🇩🇬",
-        "flag": "https://flagcdn.com/48x36/dg.png",
-        "currency": "",
-        "continent": "",
-        "states": []
     },
     {
         "code": "DJ",
@@ -1404,8 +1394,8 @@
         "name": "Djibouti",
         "emoji": "🇩🇯",
         "flag": "https://flagcdn.com/48x36/dj.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Djiboutian franc - Fdj",
+        "continent": "Africa",
         "states": []
     },
     {
