@@ -1852,7 +1852,17 @@
         "flag": "https://flagcdn.com/48x36/ga.png",
         "currency": "Central African CFA franc - FCFA",
         "continent": "Africa",
-        "states": []
+        "states": [
+            "Estuaire",
+"Haut-Ogooué",
+"Moyen-Ogooué",
+"Ngounié",
+"Nyanga",
+"Ogooué-Ivindo",
+"Ogooué-Lolo",
+"Ogooué-Maritime",
+"Woleu-Ntem"
+        ]
     },
     {
         "code": "GB",
