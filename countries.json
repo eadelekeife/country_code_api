@@ -1882,7 +1882,20 @@
         "flag": "https://flagcdn.com/48x36/ge.png",
         "currency": "",
         "continent": "",
-        "states": []
+        "states": [
+            "Tbilisi",
+            "Imereti",
+            "Ajaria",
+            "Kvemo Kartli",
+            "Samegrelo and Zemo Svaneti",
+            "Kakheti",
+            "Shida Kartli",
+            "Abkhazia",
+            "Samtskhe-Javakheti",
+            "Guria",
+            "Mtskheta-Mtianeti",
+            "Racha-Lechkhumi and Kvemo Svaneti"
+        ]
     },
     {
         "code": "GF",
