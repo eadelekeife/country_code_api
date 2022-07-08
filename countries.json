@@ -1903,7 +1903,7 @@
         "name": "French Guiana",
         "emoji": "🇬🇫",
         "flag": "https://flagcdn.com/48x36/gf.png",
-        "currency": "",
+        "currency": "Euro - €",
         "continent": "",
         "states": []
     },
@@ -1913,8 +1913,8 @@
         "name": "Guernsey",
         "emoji": "🇬🇬",
         "flag": "https://flagcdn.com/48x36/gg.png",
-        "currency": "",
-        "continent": "",
+        "currency": "The pound - £",
+        "continent": "Europe",
         "states": []
     },
     {
