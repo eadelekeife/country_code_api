@@ -2023,7 +2023,7 @@
         "emoji": "🇬🇵",
         "flag": "https://flagcdn.com/48x36/gp.png",
         "currency": "Euro - €",
-        "continent": "",
+        "continent": "Europe",
         "states": []
     },
     {
@@ -2033,8 +2033,16 @@
         "emoji": "🇬🇶",
         "flag": "https://flagcdn.com/48x36/gq.png",
         "currency": "",
-        "continent": "",
-        "states": []
+        "continent": "Africa",
+        "states": [
+            "Annobón Province",
+"Bioko Norte Province",
+"Bioko Sur Province",
+"Centro Sur Province",
+"Kié-Ntem Province",
+"Litoral Province",
+"Wele-Nzas Province"
+        ]
     },
     {
         "code": "GR",
