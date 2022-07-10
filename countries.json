@@ -2136,9 +2136,20 @@
         "name": "Guyana",
         "emoji": "🇬🇾",
         "flag": "https://flagcdn.com/48x36/gy.png",
-        "currency": "",
-        "continent": "",
-        "states": []
+        "currency": "Guyanaese Dollar - G$",
+        "continent": "South America",
+        "states": [
+            "Barima-Waini",
+            "Cuyuni-Mazaruni",
+            "Demerara-Mahaica",
+            "East Berbice-Corentyne",
+            "Essequibo Islands-West Demerara",
+            "Potaro-Siparuni",
+            "Pomeroon-Supenaam",
+            "Mahaica-Berbice",
+            "Upper Takutu-Upper Essequibo",
+            "Upper Demerara-Upper Berbice"
+        ]
     },
     {
         "code": "HK",
