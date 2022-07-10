@@ -2159,7 +2159,11 @@
         "flag": "https://flagcdn.com/48x36/hk.png",
         "currency": "Hong Kong Dollar - HK$",
         "continent": "Asia",
-        "states": []
+        "states": [
+            "Hong Kong Island (HK)",
+            "Kowloon (KLN)",
+            "New Territories (NT)"
+        ]
     },
     {
         "code": "HN",
