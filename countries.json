@@ -2157,18 +2157,8 @@
         "name": "Hong Kong SAR China",
         "emoji": "🇭🇰",
         "flag": "https://flagcdn.com/48x36/hk.png",
-        "currency": "",
-        "continent": "",
-        "states": []
-    },
-    {
-        "code": "HM",
-        "unicode": "U+1F1ED U+1F1F2",
-        "name": "Heard & McDonald Islands",
-        "emoji": "🇭🇲",
-        "flag": "https://flagcdn.com/48x36/hm.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Hong Kong Dollar - HK$",
+        "continent": "Asia",
         "states": []
     },
     {
