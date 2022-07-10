@@ -2117,17 +2117,17 @@
         "name": "Guinea-Bissau",
         "emoji": "🇬🇼",
         "flag": "https://flagcdn.com/48x36/gw.png",
-        "currency": "",
+        "currency": "West African CFA franc - CFA",
         "continent": "Africa",
         "states": [
             "Bafatá",
-"Biombo",
-"Bolama",
-"Cacheu",
-"Gabu",
-"Oio",
-"Quinara",
-"Tombali"
+            "Biombo",
+            "Bolama",
+            "Cacheu",
+            "Gabu",
+            "Oio",
+            "Quinara",
+            "Tombali"
         ]
     },
     {
