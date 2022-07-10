@@ -1968,7 +1968,7 @@
         "name": "Greenland",
         "emoji": "🇬🇱",
         "flag": "https://flagcdn.com/48x36/gl.png",
-        "currency": "Danish krone - Kr.",
+        "currency": "Danish krone - Kr",
         "continent": "North America",
         "states": [
             "Avannaata",
@@ -1985,7 +1985,7 @@
         "emoji": "🇬🇲",
         "flag": "https://flagcdn.com/48x36/gm.png",
         "currency": "",
-        "continent": "",
+        "continent": "Africa",
         "states": []
     },
     {
