@@ -2069,24 +2069,37 @@
         ]
     },
     {
-        "code": "GS",
-        "unicode": "U+1F1EC U+1F1F8",
-        "name": "South Georgia & South Sandwich Islands",
-        "emoji": "🇬🇸",
-        "flag": "https://flagcdn.com/48x36/gs.png",
-        "currency": "",
-        "continent": "",
-        "states": []
-    },
-    {
         "code": "GT",
         "unicode": "U+1F1EC U+1F1F9",
         "name": "Guatemala",
         "emoji": "🇬🇹",
         "flag": "https://flagcdn.com/48x36/gt.png",
-        "currency": "",
-        "continent": "",
-        "states": []
+        "currency": "Guatemalan Quetzal - Q",
+        "continent": "North America",
+        "states": [
+            "Alta Verapaz",
+            "Baja Verapaz",
+            "Chimaltenango",
+            "Chiquimula",
+            "El Progreso",
+            "El Quiché",
+            "Escuintla",
+            "Guatemala",
+            "Huehuetenango",
+            "Izabal",
+            "Jalapa",
+            "Jutiapa",
+            "Petén",
+            "Quetzaltenango",
+            "Retalhuleu",
+            "Sacatepéquez",
+            "San Marcos",
+            "Santa Rosa",
+            "Sololá",
+            "Suchitepéquez",
+            "Totonicapán",
+            "Zacapa"
+        ]
     },
     {
         "code": "GU",
@@ -2094,8 +2107,8 @@
         "name": "Guam",
         "emoji": "🇬🇺",
         "flag": "https://flagcdn.com/48x36/gu.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "Oceania",
         "states": []
     },
     {
@@ -2105,8 +2118,17 @@
         "emoji": "🇬🇼",
         "flag": "https://flagcdn.com/48x36/gw.png",
         "currency": "",
-        "continent": "",
-        "states": []
+        "continent": "Africa",
+        "states": [
+            "Bafatá",
+"Biombo",
+"Bolama",
+"Cacheu",
+"Gabu",
+"Oio",
+"Quinara",
+"Tombali"
+        ]
     },
     {
         "code": "GY",
