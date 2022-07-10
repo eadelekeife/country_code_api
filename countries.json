@@ -1952,7 +1952,15 @@
         "flag": "https://flagcdn.com/48x36/gi.png",
         "currency": "Gibraltar pound - £",
         "continent": "Europe",
-        "states": []
+        "states": [
+            "East Side",
+2.	North District	4,267	13.25%
+3.	Reclamation Areas	13,381	41.56%
+4.	Sandpits Area	2,053	6.38%
+5.	South District	5,681	17.65%
+6.	Town Area	3,264	10.14%
+7.	Upper Town
+        ]
     },
     {
         "code": "GL",
