@@ -2003,9 +2003,18 @@
         "name": "Guinea",
         "emoji": "🇬🇳",
         "flag": "https://flagcdn.com/48x36/gn.png",
-        "currency": "",
+        "currency": "Guinean Franc - FG",
         "continent": "Africa",
-        "states": []
+        "states": [
+            "Boké",
+            "Conakry",
+            "Faranah",
+            "Kankan",
+            "Kindia",
+            "Labé",
+            "Mamou",
+            "Nzérékoré"
+        ]
     },
     {
         "code": "GP",
