@@ -1986,7 +1986,16 @@
         "flag": "https://flagcdn.com/48x36/gm.png",
         "currency": "Gambian dalasi - D",
         "continent": "Africa",
-        "states": []
+        "states": [
+            "Banjul",
+            "Kanifing",
+            "Brikama",
+            "Mansa Konko",
+            "Kerewan",
+            "Kuntaur",
+            "Janjanbureh",
+            "Basse"
+        ]
     },
     {
         "code": "GN",
