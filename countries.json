@@ -1969,8 +1969,14 @@
         "emoji": "🇬🇱",
         "flag": "https://flagcdn.com/48x36/gl.png",
         "currency": "",
-        "continent": "",
-        "states": []
+        "continent": "North America",
+        "states": [
+            "Avannaata",
+"Kujalleq",
+"Qeqertalik",
+"Qeqqata",
+"Sermersooq"
+        ]
     },
     {
         "code": "GM",
