@@ -2173,7 +2173,26 @@
         "flag": "https://flagcdn.com/48x36/hn.png",
         "currency": "",
         "continent": "",
-        "states": []
+        "states": [
+            "Atlántida",
+"Choluteca",
+"Colón",
+"Comayagua",
+"Copán",
+"Cortés",
+"El Paraíso",
+"Francisco Morazán",
+"Gracias a Dios",
+"Intibucá",
+"Islas de la Bahía",
+"La Paz",
+"Lempira",
+"Ocotepeque",
+"Olancho",
+"Santa Bárbara",
+"Valle",
+"Yoro"
+        ]
     },
     {
         "code": "HR",
