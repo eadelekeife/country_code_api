@@ -2253,19 +2253,30 @@
         "name": "Hungary",
         "emoji": "🇭🇺",
         "flag": "https://flagcdn.com/48x36/hu.png",
-        "currency": "",
+        "currency": "Hungarian forint - Ft",
         "continent": "Europe",
-        "states": []
-    },
-    {
-        "code": "IC",
-        "unicode": "U+1F1EE U+1F1E8",
-        "name": "Canary Islands",
-        "emoji": "🇮🇨",
-        "flag": "https://flagcdn.com/48x36/ic.png",
-        "currency": "",
-        "continent": "",
-        "states": []
+        "states": [
+            "Baranya",
+            "Bács-Kiskun",
+            "Békés",
+            "Borsod-Abaúj-Zemplén",
+            "Budapest",
+            "Csongrád-Csanád",
+            "Fejér",
+            "Győr-Moson-Sopron",
+            "Hajdú-Bihar",
+            "Heves",
+            "Jász-Nagykun-Szolnok",
+            "Komárom-Esztergom",
+            "Nógrád",
+            "Pest",
+            "Somogy",
+            "Szabolcs-Szatmár-Bereg",
+            "Tolna",
+            "Vas",
+            "Veszprém",
+            "Zala"
+        ]
     },
     {
         "code": "ID",
