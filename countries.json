@@ -2234,7 +2234,18 @@
         "flag": "https://flagcdn.com/48x36/ht.png",
         "currency": "Haitian Gourde - G",
         "continent": "North America",
-        "states": []
+        "states": [
+            "Artibonite",
+            "Centre",
+            "Grand'Anse",
+            "Nippes",
+            "Nord",
+            "Nord-Est",
+            "Nord-Ouest",
+            "Ouest",
+            "Sud-Est",
+            "Sud"
+        ]
     },
     {
         "code": "HU",
