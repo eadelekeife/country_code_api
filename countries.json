@@ -2371,7 +2371,14 @@
         "flag": "https://flagcdn.com/48x36/il.png",
         "currency": "Israeli New Shekel - ₪",
         "continent": "Europe",
-        "states": []
+        "states": [
+            "Central",
+"Jerusalem",
+"Haifa",
+"Northern",
+"Southern",
+"Tel Aviv"
+        ]
     },
     {
         "code": "IM",
