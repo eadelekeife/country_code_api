@@ -2332,8 +2332,8 @@
         "name": "Ireland",
         "emoji": "🇮🇪",
         "flag": "https://flagcdn.com/48x36/ie.png",
-        "currency": "Euro - ",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Europe",
         "states": []
     },
     {
