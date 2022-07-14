@@ -2448,7 +2448,27 @@
         "flag": "https://flagcdn.com/48x36/iq.png",
         "currency": "Iraqi dinar - ع.د",
         "continent": "Asia",
-        "states": []
+        "states": [
+            "Al Anbar",
+"Babylon",
+"Baghdad",
+"Basra",
+"Dhi Qar",
+"Al-Qādisiyyah",
+"Diyala",
+"Duhok",
+"Erbil",
+"Halabja",
+"Karbala",
+"Kirkuk",
+"Maysan",
+"Muthanna",
+"Najaf",
+"Nineveh",
+"Saladin",
+"Sulaymaniyah",
+"Wasit"
+        ]
     },
     {
         "code": "IR",
