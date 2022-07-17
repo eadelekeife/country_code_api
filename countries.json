@@ -16,7 +16,7 @@
             "Ordino",
             "Sant Julià de Lòria"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AE",
@@ -35,7 +35,7 @@
             "Umm Al Quwain",
             "Fujairah"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AF",
@@ -81,7 +81,7 @@
             "Wardak",
             "Zabul"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AG",
@@ -101,7 +101,7 @@
             "Barbuda",
             "Redonda"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AI",
@@ -112,7 +112,7 @@
         "currency": "Eastern Caribbean dollar",
         "continent": "North America",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AL",
@@ -171,7 +171,7 @@
             "Vlorë County",
             "Vlorë District"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AM",
@@ -194,7 +194,7 @@
             "Vayots Dzor",
             "Yerevan"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AO",
@@ -224,7 +224,7 @@
             "Uíge",
             "Zaire"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AR",
@@ -259,7 +259,7 @@
             "Tierra Del Fuego",
             "Tucuman"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AS",
@@ -283,7 +283,7 @@
             "Tutuila",
             "Vaifanua"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AT",
@@ -304,7 +304,7 @@
             "Vorarlberg",
             "Burgenland"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AU",
@@ -324,7 +324,7 @@
             "the Australian Capital Territory",
             "Tasmania"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AW",
@@ -335,7 +335,7 @@
         "currency": "Aruban florin",
         "continent": "South America",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AX",
@@ -363,7 +363,7 @@
             "Kökar",
             "Sottunga"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "AZ",
@@ -384,7 +384,7 @@
             "Şəki",
             "Yevlax"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BA",
@@ -409,7 +409,7 @@
             "West Herzegovina Canton",
             "Zenica-Doboj Canton"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BB",
@@ -432,7 +432,7 @@
             "The Parish of St.Joseph",
             "The Parish of St.George"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BD",
@@ -452,7 +452,7 @@
             "Rangpur",
             "Sylhet"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BE",
@@ -475,7 +475,7 @@
             "Liège",
             "Luxembourg"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BF",
@@ -530,7 +530,7 @@
             "Zondoma",
             "Zoundwèogo"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BG",
@@ -571,7 +571,7 @@
             "Kŭrdzhali",
             "Mikhaylovgrad"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BH",
@@ -587,7 +587,7 @@
             "Pink Southern Governorate",
             "Yellow Capital Governorate"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BI",
@@ -616,7 +616,7 @@
             "Rutana",
             "Ruyigi"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BJ",
@@ -640,7 +640,7 @@
             "Sakété",
             "Abomey"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BL",
@@ -651,7 +651,7 @@
         "currency": "Euro - €",
         "continent": "North America",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BM",
@@ -672,7 +672,7 @@
             "Southampton",
             "Warwick"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BN",
@@ -688,7 +688,7 @@
             "Tutong",
             "Temburong"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BO",
@@ -709,7 +709,7 @@
             "Santa Cruz",
             "Tarija"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BQ",
@@ -724,7 +724,7 @@
             "Sint Eustatius",
             "Saba"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BR",
@@ -763,7 +763,7 @@
             "Sergipe",
             "Tocantins"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BS",
@@ -816,7 +816,7 @@
             "Spanish Wells",
             "West Grand Bahama"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BT",
@@ -848,7 +848,7 @@
             "Wangdue Phodrang",
             "Zhemgang"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BV",
@@ -859,7 +859,7 @@
         "currency": "Norwegian krone - Kr",
         "continent": "Antarctica",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BW",
@@ -881,7 +881,7 @@
             "Chobe District",
             "Ghanzi District"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BY",
@@ -899,7 +899,7 @@
             "Minsk Oblast",
             "Mogilev Oblast"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "BZ",
@@ -917,7 +917,7 @@
             "Stann Creek",
             "Toledo"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CA",
@@ -939,7 +939,7 @@
             "Quebec",
             "Saskatchewan"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CC",
@@ -950,7 +950,7 @@
         "currency": "Australian dollar - AUD",
         "continent": "Australia",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CD",
@@ -988,7 +988,7 @@
             "Lualaba",
             "Haut-Katanga"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CF",
@@ -1017,7 +1017,7 @@
             "Sangha-Mbaéré",
             "Bangui"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CG",
@@ -1041,7 +1041,7 @@
             "Sangha",
             "Pointe Noire"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CH",
@@ -1079,7 +1079,7 @@
             "Canton of Geneva",
             "Canton of Jura"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CI",
@@ -1124,7 +1124,7 @@
             "Worodougou",
             "Yamoussoukro"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CK",
@@ -1135,7 +1135,7 @@
         "currency": "Cook Islands dollar - $",
         "continent": "Oceania",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CL",
@@ -1163,7 +1163,7 @@
             "Región Aysén del General Carlos Ibáñez del Campo",
             "Región de Magallanes y de la Antártica Chilena"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CM",
@@ -1185,7 +1185,7 @@
             "Sud-Ouest",
             "Ouest"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CN",
@@ -1231,7 +1231,7 @@
             "Yunnan",
             "Zhejiang"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CO",
@@ -1275,7 +1275,7 @@
             "Vaupes",
             "Vichada"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CR",
@@ -1294,7 +1294,7 @@
             "Puntarenas",
             "San Jose"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CU",
@@ -1321,7 +1321,7 @@
             "Santiago De Cuba",
             "Villa Clara"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CV",
@@ -1349,7 +1349,7 @@
             "Boa Vista",
             "Tarrafal"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CW",
@@ -1360,7 +1360,7 @@
         "currency": "Netherlands Antillean guilder - NAf",
         "continent": "South America",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CX",
@@ -1371,7 +1371,7 @@
         "currency": "Australian dollar - AUD",
         "continent": "Asia",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CY",
@@ -1389,7 +1389,7 @@
             "Famagusta",
             "Kyrenia"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "CZ",
@@ -1414,7 +1414,7 @@
             "Central Bohemia Region",
             "Southern Moravia Region"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "DE",
@@ -1442,7 +1442,7 @@
             "Schleswig-Holstein",
             "Thüringen (Thuringia)"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "DJ",
@@ -1460,7 +1460,7 @@
             "Région d'Obock",
             "Région de Tadjourah"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "DK",
@@ -1477,7 +1477,7 @@
             "Region Sjælland",
             "Region Syddanmark"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "DM",
@@ -1499,7 +1499,7 @@
             "Saint Paul Parish",
             "Saint Peter Parish"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "DO",
@@ -1542,7 +1542,7 @@
             "Santo Domingo",
             "Valverde"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "DZ",
@@ -1612,7 +1612,7 @@
             "Skikda",
             "Souk Ahras"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "EC",
@@ -1648,7 +1648,7 @@
             "Tungurahua",
             "Zamora-Chinchipe"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "EE",
@@ -1675,7 +1675,7 @@
             "Viljandi County",
             "Võru County"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "EG",
@@ -1714,7 +1714,7 @@
             "Suez",
             "Luxor"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "ER",
@@ -1732,7 +1732,7 @@
             "Southern (Debub) Region",
             "Southern Red Sea Region"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "ES",
@@ -1761,7 +1761,7 @@
             "Cantabria",
             "La Rioja",
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "ET",
@@ -1785,7 +1785,7 @@
             "Southern Nations",
             "Tigray"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "FI",
@@ -1816,7 +1816,7 @@
             "Varsinais-Suomi",
             "Åland"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "FJ",
@@ -1842,7 +1842,7 @@
             "Serua",
             "Tailevu"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "FK",
@@ -1856,7 +1856,7 @@
             "West Falkland",
             "East Falkland"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "FM",
@@ -1872,7 +1872,7 @@
             "Pohnpei",
             "Kosrae"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "FO",
@@ -1890,7 +1890,7 @@
             "Suðuroyar sýsla",
             "Vága sýsla"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "FR",
@@ -1915,7 +1915,7 @@
             "Pays de la Loire",
             "Provence"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GA",
@@ -1936,7 +1936,7 @@
             "Ogooué-Maritime",
             "Woleu-Ntem"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GB",
@@ -1947,7 +1947,7 @@
         "currency": "",
         "continent": "Europe",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GE",
@@ -1971,7 +1971,7 @@
             "Mtskheta-Mtianeti",
             "Racha-Lechkhumi and Kvemo Svaneti"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GF",
@@ -1982,7 +1982,7 @@
         "currency": "Euro - €",
         "continent": "Europe",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GG",
@@ -1993,7 +1993,7 @@
         "currency": "The pound - £",
         "continent": "Europe",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GH",
@@ -2021,7 +2021,7 @@
             "Western Region",
             "Western North Region"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GI",
@@ -2040,7 +2040,7 @@
             "Town Area",
             "Upper Town"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GL",
@@ -2057,7 +2057,7 @@
             "Qeqqata",
             "Sermersooq"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GM",
@@ -2077,7 +2077,7 @@
             "Kuntaur",
             "Mansa Konko"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GN",
@@ -2097,7 +2097,7 @@
             "Mamou",
             "Nzérékoré"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GP",
@@ -2108,7 +2108,7 @@
         "currency": "Euro - €",
         "continent": "Europe",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GQ",
@@ -2127,7 +2127,7 @@
             "Litoral Province",
             "Wele-Nzas Province"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GR",
@@ -2152,7 +2152,7 @@
             "Ionian Islands",
             "North Aegean"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GT",
@@ -2186,7 +2186,7 @@
             "Totonicapán",
             "Zacapa"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GU",
@@ -2197,7 +2197,7 @@
         "currency": "United States Dollar - $",
         "continent": "Oceania",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GW",
@@ -2217,7 +2217,7 @@
             "Quinara",
             "Tombali"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "GY",
@@ -2239,7 +2239,7 @@
             "Upper Takutu-Upper Essequibo",
             "Upper Demerara-Upper Berbice"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "HK",
@@ -2254,7 +2254,7 @@
             "Kowloon (KLN)",
             "New Territories (NT)"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "HN",
@@ -2284,7 +2284,7 @@
             "Valle",
             "Yoro"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "HR",
@@ -2317,7 +2317,7 @@
             "Zadarska",
             "Zagrebacka"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "HT",
@@ -2339,7 +2339,7 @@
             "Sud-Est",
             "Sud"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "HU",
@@ -2371,7 +2371,7 @@
             "Veszprém",
             "Zala"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "ID",
@@ -2420,7 +2420,7 @@
             "West Sumatra",
             "Special Region of Yogyakarta"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "IE",
@@ -2458,7 +2458,7 @@
             "Wexford",
             "Wicklow"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "IL",
@@ -2476,7 +2476,7 @@
             "Southern",
             "Tel Aviv"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "IM",
@@ -2487,7 +2487,7 @@
         "currency": "Pound sterling - £",
         "continent": "Europe",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "IN",
@@ -2528,7 +2528,7 @@
             "Uttarakhand",
             "West Bengal"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "IO",
@@ -2539,7 +2539,7 @@
         "currency": "Pound sterling - £",
         "continent": "Asia",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "IQ",
@@ -2570,7 +2570,7 @@
             "Sulaymaniyah",
             "Wasit"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "IR",
@@ -2613,7 +2613,7 @@
             "Yazd",
             "Zanjan"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "IS",
@@ -2633,7 +2633,7 @@
             "East",
             "South"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "IT",
@@ -2665,7 +2665,7 @@
             "Umbria",
             "Veneto"
         ],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "JM",
@@ -2676,7 +2676,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "JO",
@@ -2687,7 +2687,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "JP",
@@ -2698,7 +2698,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "KE",
@@ -2709,7 +2709,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "KG",
@@ -2720,7 +2720,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "KH",
@@ -2731,7 +2731,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "KI",
@@ -2742,7 +2742,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "KM",
@@ -2753,7 +2753,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "KN",
@@ -2764,7 +2764,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "KP",
@@ -2775,7 +2775,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "KR",
@@ -2786,7 +2786,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "KW",
@@ -2797,7 +2797,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "KY",
@@ -2808,7 +2808,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "KZ",
@@ -2819,7 +2819,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "LA",
@@ -2830,7 +2830,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "LB",
@@ -2841,7 +2841,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "LC",
@@ -2852,7 +2852,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "LI",
@@ -2863,7 +2863,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "LK",
@@ -2874,7 +2874,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "LR",
@@ -2885,7 +2885,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "LS",
@@ -2896,7 +2896,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "LT",
@@ -2907,7 +2907,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "LU",
@@ -2918,7 +2918,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "LV",
@@ -2929,7 +2929,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "LY",
@@ -2940,7 +2940,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MA",
@@ -2951,7 +2951,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MC",
@@ -2962,7 +2962,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MD",
@@ -2973,7 +2973,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "ME",
@@ -2984,7 +2984,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MF",
@@ -2995,7 +2995,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MG",
@@ -3006,7 +3006,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MH",
@@ -3017,7 +3017,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MK",
@@ -3028,7 +3028,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "ML",
@@ -3039,7 +3039,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MM",
@@ -3050,7 +3050,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MN",
@@ -3061,7 +3061,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MO",
@@ -3072,7 +3072,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MP",
@@ -3083,7 +3083,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MQ",
@@ -3094,7 +3094,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MR",
@@ -3105,7 +3105,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MS",
@@ -3116,7 +3116,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MT",
@@ -3127,7 +3127,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MU",
@@ -3138,7 +3138,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MV",
@@ -3149,7 +3149,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MW",
@@ -3160,7 +3160,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MX",
@@ -3171,7 +3171,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MY",
@@ -3182,7 +3182,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "MZ",
@@ -3193,7 +3193,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "NA",
@@ -3204,7 +3204,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "NC",
@@ -3215,7 +3215,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "NE",
@@ -3226,7 +3226,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "NF",
@@ -3237,7 +3237,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "NG",
@@ -3248,7 +3248,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "NI",
@@ -3259,7 +3259,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "NL",
@@ -3270,7 +3270,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "NO",
@@ -3281,7 +3281,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "NP",
@@ -3292,7 +3292,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "NR",
@@ -3303,7 +3303,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "NU",
@@ -3314,7 +3314,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "NZ",
@@ -3325,7 +3325,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "OM",
@@ -3336,7 +3336,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PA",
@@ -3347,7 +3347,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PE",
@@ -3358,7 +3358,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PF",
@@ -3369,7 +3369,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PG",
@@ -3380,7 +3380,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PH",
@@ -3391,7 +3391,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PK",
@@ -3402,7 +3402,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PL",
@@ -3413,7 +3413,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PM",
@@ -3424,7 +3424,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PN",
@@ -3435,7 +3435,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PR",
@@ -3446,7 +3446,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PS",
@@ -3457,7 +3457,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PT",
@@ -3468,7 +3468,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PW",
@@ -3479,7 +3479,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "PY",
@@ -3490,7 +3490,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "QA",
@@ -3501,7 +3501,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "RE",
@@ -3512,7 +3512,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "RO",
@@ -3523,7 +3523,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "RS",
@@ -3534,7 +3534,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "RU",
@@ -3545,7 +3545,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "RW",
@@ -3556,7 +3556,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SA",
@@ -3567,7 +3567,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SB",
@@ -3578,7 +3578,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SC",
@@ -3589,7 +3589,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SD",
@@ -3600,7 +3600,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SE",
@@ -3611,7 +3611,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SG",
@@ -3622,7 +3622,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SH",
@@ -3633,7 +3633,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SI",
@@ -3644,7 +3644,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SJ",
@@ -3655,7 +3655,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SK",
@@ -3666,7 +3666,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SL",
@@ -3677,7 +3677,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SM",
@@ -3688,7 +3688,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SN",
@@ -3699,7 +3699,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SO",
@@ -3710,7 +3710,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SR",
@@ -3721,7 +3721,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SS",
@@ -3732,7 +3732,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "ST",
@@ -3743,7 +3743,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SV",
@@ -3754,7 +3754,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SX",
@@ -3765,7 +3765,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SY",
@@ -3776,7 +3776,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "SZ",
@@ -3787,7 +3787,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TA",
@@ -3798,7 +3798,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TC",
@@ -3809,7 +3809,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TD",
@@ -3820,7 +3820,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TF",
@@ -3831,7 +3831,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TG",
@@ -3842,7 +3842,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TH",
@@ -3853,7 +3853,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TJ",
@@ -3864,7 +3864,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TK",
@@ -3875,7 +3875,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TL",
@@ -3886,7 +3886,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TM",
@@ -3897,7 +3897,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TN",
@@ -3908,7 +3908,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TO",
@@ -3919,7 +3919,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TR",
@@ -3930,7 +3930,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TT",
@@ -3941,7 +3941,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TV",
@@ -3952,7 +3952,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TW",
@@ -3963,7 +3963,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "TZ",
@@ -3974,7 +3974,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "UA",
@@ -3985,7 +3985,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "UG",
@@ -3996,7 +3996,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "UM",
@@ -4007,7 +4007,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "UN",
@@ -4018,7 +4018,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "US",
@@ -4029,7 +4029,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "UY",
@@ -4040,7 +4040,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "UZ",
@@ -4051,7 +4051,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "VA",
@@ -4062,7 +4062,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "VC",
@@ -4073,7 +4073,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "VE",
@@ -4084,7 +4084,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "VG",
@@ -4095,7 +4095,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "VI",
@@ -4106,7 +4106,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "VN",
@@ -4117,7 +4117,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "VU",
@@ -4128,7 +4128,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "WF",
@@ -4139,7 +4139,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "WS",
@@ -4150,7 +4150,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "XK",
@@ -4161,7 +4161,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "YE",
@@ -4172,7 +4172,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "YT",
@@ -4183,7 +4183,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "ZA",
@@ -4194,7 +4194,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "ZM",
@@ -4205,7 +4205,7 @@
         "currency": "",
         "continent": "",
         "states": [],
-        "callCodes"
+        "callCodes": ""
     },
     {
         "code": "ZW",
