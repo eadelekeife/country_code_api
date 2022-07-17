@@ -324,7 +324,7 @@
             "the Australian Capital Territory",
             "Tasmania"
         ],
-        "callCodes": ""
+        "callCodes": "+61"
     },
     {
         "code": "AW",
@@ -335,7 +335,7 @@
         "currency": "Aruban florin",
         "continent": "South America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+297"
     },
     {
         "code": "AX",
@@ -363,7 +363,7 @@
             "Kökar",
             "Sottunga"
         ],
-        "callCodes": ""
+        "callCodes": "+358"
     },
     {
         "code": "AZ",
@@ -384,7 +384,7 @@
             "Şəki",
             "Yevlax"
         ],
-        "callCodes": ""
+        "callCodes": "+994"
     },
     {
         "code": "BA",
@@ -409,7 +409,7 @@
             "West Herzegovina Canton",
             "Zenica-Doboj Canton"
         ],
-        "callCodes": ""
+        "callCodes": "+387"
     },
     {
         "code": "BB",
@@ -432,7 +432,7 @@
             "The Parish of St.Joseph",
             "The Parish of St.George"
         ],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "BD",
