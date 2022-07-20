@@ -579,7 +579,7 @@
         "name": "Bahrain",
         "emoji": "🇧🇭",
         "flag": "https://flagcdn.com/48x36/bh.png",
-        "currency": "Bahraini dinar",
+        "currency": "Bahraini dinar - BD",
         "continent": "Asia",
         "states": [
             "Light Blue Northern Governorate",
@@ -587,7 +587,7 @@
             "Pink Southern Governorate",
             "Yellow Capital Governorate"
         ],
-        "callCodes": ""
+        "callCodes": "+973"
     },
     {
         "code": "BI",
