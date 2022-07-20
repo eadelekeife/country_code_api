@@ -816,7 +816,7 @@
             "Spanish Wells",
             "West Grand Bahama"
         ],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "BT",
@@ -848,7 +848,7 @@
             "Wangdue Phodrang",
             "Zhemgang"
         ],
-        "callCodes": ""
+        "callCodes": "+975"
     },
     {
         "code": "BV",
@@ -859,7 +859,7 @@
         "currency": "Norwegian krone - Kr",
         "continent": "Antarctica",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+47"
     },
     {
         "code": "BW",
