@@ -881,7 +881,7 @@
             "Chobe District",
             "Ghanzi District"
         ],
-        "callCodes": ""
+        "callCodes": "+267"
     },
     {
         "code": "BY",
@@ -899,7 +899,7 @@
             "Minsk Oblast",
             "Mogilev Oblast"
         ],
-        "callCodes": ""
+        "callCodes": "+375"
     },
     {
         "code": "BZ",
@@ -917,7 +917,7 @@
             "Stann Creek",
             "Toledo"
         ],
-        "callCodes": ""
+        "callCodes": "+501"
     },
     {
         "code": "CA",
@@ -939,7 +939,7 @@
             "Quebec",
             "Saskatchewan"
         ],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "CC",
@@ -950,7 +950,7 @@
         "currency": "Australian dollar - AUD",
         "continent": "Australia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+61"
     },
     {
         "code": "CD",
@@ -988,7 +988,7 @@
             "Lualaba",
             "Haut-Katanga"
         ],
-        "callCodes": ""
+        "callCodes": "+243"
     },
     {
         "code": "CF",
@@ -1017,7 +1017,7 @@
             "Sangha-Mbaéré",
             "Bangui"
         ],
-        "callCodes": ""
+        "callCodes": "+236"
     },
     {
         "code": "CG",
@@ -1041,7 +1041,7 @@
             "Sangha",
             "Pointe Noire"
         ],
-        "callCodes": ""
+        "callCodes": "+242"
     },
     {
         "code": "CH",
@@ -1079,7 +1079,7 @@
             "Canton of Geneva",
             "Canton of Jura"
         ],
-        "callCodes": ""
+        "callCodes": "+41"
     },
     {
         "code": "CI",
@@ -1124,7 +1124,7 @@
             "Worodougou",
             "Yamoussoukro"
         ],
-        "callCodes": ""
+        "callCodes": "+225"
     },
     {
         "code": "CK",
@@ -1135,7 +1135,7 @@
         "currency": "Cook Islands dollar - $",
         "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+682"
     },
     {
         "code": "CL",
@@ -1163,7 +1163,7 @@
             "Región Aysén del General Carlos Ibáñez del Campo",
             "Región de Magallanes y de la Antártica Chilena"
         ],
-        "callCodes": ""
+        "callCodes": "+56"
     },
     {
         "code": "CM",
