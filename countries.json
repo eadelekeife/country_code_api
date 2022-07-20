@@ -651,7 +651,7 @@
         "currency": "Euro - €",
         "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+590"
     },
     {
         "code": "BM",
@@ -672,7 +672,7 @@
             "Southampton",
             "Warwick"
         ],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "BN",
@@ -688,7 +688,7 @@
             "Tutong",
             "Temburong"
         ],
-        "callCodes": ""
+        "callCodes": "+673"
     },
     {
         "code": "BO",
@@ -709,7 +709,7 @@
             "Santa Cruz",
             "Tarija"
         ],
-        "callCodes": ""
+        "callCodes": "+591"
     },
     {
         "code": "BQ",
