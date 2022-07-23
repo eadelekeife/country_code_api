@@ -2684,10 +2684,10 @@
         "name": "Jordan",
         "emoji": "🇯🇴",
         "flag": "https://flagcdn.com/48x36/jo.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Jordanian Dinar - د.ا",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+962"
     },
     {
         "code": "JP",
