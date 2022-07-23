@@ -2819,7 +2819,7 @@
         "currency": "Kazakhstani Tenge -  ₸",
         "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+7"
     },
     {
         "code": "LA",
@@ -2827,10 +2827,10 @@
         "name": "Laos",
         "emoji": "🇱🇦",
         "flag": "https://flagcdn.com/48x36/la.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Lao kip - ₭N",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+856"
     },
     {
         "code": "LB",
