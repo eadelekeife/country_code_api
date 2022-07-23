@@ -2717,7 +2717,7 @@
         "name": "Kyrgyzstan",
         "emoji": "🇰🇬",
         "flag": "https://flagcdn.com/48x36/kg.png",
-        "currency": "Kyrgyzstani som - ",
+        "currency": "Kyrgyzstani som - Лв",
         "continent": "Asia",
         "states": [],
         "callCodes": "+996"
@@ -2728,7 +2728,7 @@
         "name": "Cambodia",
         "emoji": "🇰🇭",
         "flag": "https://flagcdn.com/48x36/kh.png",
-        "currency": "",
+        "currency": "Cambodian riel - ៛",
         "continent": "",
         "states": [],
         "callCodes": ""
