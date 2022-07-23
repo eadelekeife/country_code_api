@@ -2750,10 +2750,10 @@
         "name": "Comoros",
         "emoji": "🇰🇲",
         "flag": "https://flagcdn.com/48x36/km.png",
-        "currency": "",
+        "currency": "Comorian franc - CF",
         "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+269"
     },
     {
         "code": "KN",
