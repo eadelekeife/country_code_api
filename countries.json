@@ -2695,7 +2695,7 @@
         "name": "Japan",
         "emoji": "🇯🇵",
         "flag": "https://flagcdn.com/48x36/jp.png",
-        "currency": "",
+        "currency": "Japanese Yen - ¥",
         "continent": "Asia",
         "states": [],
         "callCodes": "+81"
