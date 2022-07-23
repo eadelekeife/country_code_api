@@ -2696,9 +2696,9 @@
         "emoji": "🇯🇵",
         "flag": "https://flagcdn.com/48x36/jp.png",
         "currency": "",
-        "continent": "",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+81"
     },
     {
         "code": "KE",
