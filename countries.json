@@ -2893,10 +2893,10 @@
         "name": "Lesotho",
         "emoji": "🇱🇸",
         "flag": "https://flagcdn.com/48x36/ls.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Lesotho loti - M",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+266"
     },
     {
         "code": "LT",
