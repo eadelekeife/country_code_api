@@ -2739,10 +2739,10 @@
         "name": "Kiribati",
         "emoji": "🇰🇮",
         "flag": "https://flagcdn.com/48x36/ki.png",
-        "currency": "",
+        "currency": "Australian Dollar - AUD",
         "continent": "",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+686"
     },
     {
         "code": "KM",
