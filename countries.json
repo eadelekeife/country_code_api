@@ -2849,10 +2849,10 @@
         "name": "St. Lucia",
         "emoji": "🇱🇨",
         "flag": "https://flagcdn.com/48x36/lc.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Eastern Caribbean dollar - $",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "LI",
