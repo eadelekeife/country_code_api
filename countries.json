@@ -3003,8 +3003,8 @@
         "name": "Madagascar",
         "emoji": "🇲🇬",
         "flag": "https://flagcdn.com/48x36/mg.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Malagasy ariary",
+        "continent": "Africa",
         "states": [],
         "callCodes": "+261"
     },
