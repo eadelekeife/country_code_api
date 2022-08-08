@@ -3336,7 +3336,7 @@
         "currency": "Omani Rial - ر.ع.",
         "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+968"
     },
     {
         "code": "PA",
@@ -3344,10 +3344,10 @@
         "name": "Panama",
         "emoji": "🇵🇦",
         "flag": "https://flagcdn.com/48x36/pa.png",
-        "currency": "",
+        "currency": "Panamanian Balboa - B/.",
         "continent": "",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+507"
     },
     {
         "code": "PE",
