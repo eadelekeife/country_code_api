@@ -3323,7 +3323,7 @@
         "emoji": "🇳🇿",
         "flag": "https://flagcdn.com/48x36/nz.png",
         "currency": "New Zealand Dollar - $",
-        "continent": "",
+        "continent": "Oceania",
         "states": [],
         "callCodes": "+64"
     },
@@ -3333,8 +3333,8 @@
         "name": "Oman",
         "emoji": "🇴🇲",
         "flag": "https://flagcdn.com/48x36/om.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Omani Rial - ر.ع.",
+        "continent": "Asia",
         "states": [],
         "callCodes": ""
     },
