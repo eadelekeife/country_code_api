@@ -3487,10 +3487,10 @@
         "name": "Paraguay",
         "emoji": "🇵🇾",
         "flag": "https://flagcdn.com/48x36/py.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Paraguayan Guarani - ₲",
+        "continent": "South America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+595"
     },
     {
         "code": "QA",
@@ -3498,10 +3498,10 @@
         "name": "Qatar",
         "emoji": "🇶🇦",
         "flag": "https://flagcdn.com/48x36/qa.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Qatari Riyal - ر.ق",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+974"
     },
     {
         "code": "RE",
@@ -3509,10 +3509,10 @@
         "name": "Réunion",
         "emoji": "🇷🇪",
         "flag": "https://flagcdn.com/48x36/re.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+262"
     },
     {
         "code": "RO",
@@ -3520,10 +3520,10 @@
         "name": "Romania",
         "emoji": "🇷🇴",
         "flag": "https://flagcdn.com/48x36/ro.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Romanian leu - lei",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+40"
     },
     {
         "code": "RS",
@@ -3531,10 +3531,10 @@
         "name": "Serbia",
         "emoji": "🇷🇸",
         "flag": "https://flagcdn.com/48x36/rs.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Serbian dinar - din",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+381"
     },
     {
         "code": "RU",
