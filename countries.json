@@ -3443,10 +3443,10 @@
         "name": "Puerto Rico",
         "emoji": "🇵🇷",
         "flag": "https://flagcdn.com/48x36/pr.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "PS",
@@ -3454,10 +3454,10 @@
         "name": "Palestinian Territories",
         "emoji": "🇵🇸",
         "flag": "https://flagcdn.com/48x36/ps.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Palestine pound - £P",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+970"
     },
     {
         "code": "PT",
@@ -3465,10 +3465,10 @@
         "name": "Portugal",
         "emoji": "🇵🇹",
         "flag": "https://flagcdn.com/48x36/pt.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+351"
     },
     {
         "code": "PW",
@@ -3476,10 +3476,10 @@
         "name": "Palau",
         "emoji": "🇵🇼",
         "flag": "https://flagcdn.com/48x36/pw.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+680"
     },
     {
         "code": "PY",
