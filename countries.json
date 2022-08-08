@@ -3289,10 +3289,10 @@
         "name": "Nepal",
         "emoji": "🇳🇵",
         "flag": "https://flagcdn.com/48x36/np.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Nepalese rupee - Re",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+977"
     },
     {
         "code": "NR",
@@ -3300,10 +3300,10 @@
         "name": "Nauru",
         "emoji": "🇳🇷",
         "flag": "https://flagcdn.com/48x36/nr.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Australian dollar - AUD",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+674"
     },
     {
         "code": "NU",
@@ -3311,10 +3311,10 @@
         "name": "Niue",
         "emoji": "🇳🇺",
         "flag": "https://flagcdn.com/48x36/nu.png",
-        "currency": "",
-        "continent": "",
+        "currency": "New Zealand dollar - $",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+683"
     },
     {
         "code": "NZ",
