@@ -3355,10 +3355,10 @@
         "name": "Peru",
         "emoji": "🇵🇪",
         "flag": "https://flagcdn.com/48x36/pe.png",
-        "currency": "",
-        "continent": "",
+        "currency": "South America",
+        "continent": "The nuevo sol - S/",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+51"
     },
     {
         "code": "PF",
@@ -3366,10 +3366,10 @@
         "name": "French Polynesia",
         "emoji": "🇵🇫",
         "flag": "https://flagcdn.com/48x36/pf.png",
-        "currency": "",
-        "continent": "",
+        "currency": "CFP franc - ₣",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+689"
     },
     {
         "code": "PG",
@@ -3377,10 +3377,10 @@
         "name": "Papua New Guinea",
         "emoji": "🇵🇬",
         "flag": "https://flagcdn.com/48x36/pg.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Papua New Guinean kina - K",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+675"
     },
     {
         "code": "PH",
@@ -3388,10 +3388,10 @@
         "name": "Philippines",
         "emoji": "🇵🇭",
         "flag": "https://flagcdn.com/48x36/ph.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Philippine peso - ₱",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+63"
     },
     {
         "code": "PK",
@@ -3399,10 +3399,10 @@
         "name": "Pakistan",
         "emoji": "🇵🇰",
         "flag": "https://flagcdn.com/48x36/pk.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Pakistani Rupee -Rs",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+92"
     },
     {
         "code": "PL",
@@ -3410,10 +3410,10 @@
         "name": "Poland",
         "emoji": "🇵🇱",
         "flag": "https://flagcdn.com/48x36/pl.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Polish złoty - zł",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+48"
     },
     {
         "code": "PM",
@@ -3421,10 +3421,10 @@
         "name": "St. Pierre & Miquelon",
         "emoji": "🇵🇲",
         "flag": "https://flagcdn.com/48x36/pm.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+508"
     },
     {
         "code": "PN",
@@ -3432,10 +3432,10 @@
         "name": "Pitcairn Islands",
         "emoji": "🇵🇳",
         "flag": "https://flagcdn.com/48x36/pn.png",
-        "currency": "",
-        "continent": "",
+        "currency": "New Zealand dollar - $",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+64"
     },
     {
         "code": "PR",
