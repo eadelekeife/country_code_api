@@ -3619,21 +3619,10 @@
         "name": "Singapore",
         "emoji": "🇸🇬",
         "flag": "https://flagcdn.com/48x36/sg.png",
-        "currency": "",
+        "currency": "Singapore dollar - S$",
         "continent": "Asia",
         "states": [],
         "callCodes": "+65"
-    },
-    {
-        "code": "SH",
-        "unicode": "U+1F1F8 U+1F1ED",
-        "name": "St. Helena",
-        "emoji": "🇸🇭",
-        "flag": "https://flagcdn.com/48x36/sh.png",
-        "currency": "",
-        "continent": "",
-        "states": [],
-        "callCodes": ""
     },
     {
         "code": "SI",
@@ -3641,21 +3630,10 @@
         "name": "Slovenia",
         "emoji": "🇸🇮",
         "flag": "https://flagcdn.com/48x36/si.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
-    },
-    {
-        "code": "SJ",
-        "unicode": "U+1F1F8 U+1F1EF",
-        "name": "Svalbard & Jan Mayen",
-        "emoji": "🇸🇯",
-        "flag": "https://flagcdn.com/48x36/sj.png",
-        "currency": "",
-        "continent": "",
-        "states": [],
-        "callCodes": ""
+        "callCodes": "+386"
     },
     {
         "code": "SK",
@@ -3663,10 +3641,10 @@
         "name": "Slovakia",
         "emoji": "🇸🇰",
         "flag": "https://flagcdn.com/48x36/sk.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Slovak koruna - kr",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "421"
     },
     {
         "code": "SL",
@@ -3675,7 +3653,7 @@
         "emoji": "🇸🇱",
         "flag": "https://flagcdn.com/48x36/sl.png",
         "currency": "",
-        "continent": "",
+        "continent": "Africa",
         "states": [],
         "callCodes": ""
     },
