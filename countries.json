@@ -3575,11 +3575,10 @@
         "name": "Solomon Islands",
         "emoji": "🇸🇧",
         "flag": "https://flagcdn.com/48x36/sb.png",
-        "currency": "",
+        "currency": "Solomon Islands dollar",
         "continent": "Oceania",
         "states": [],
-        "callCodes": "+677
-        "
+        "callCodes": "+677"
     },
     {
         "code": "SC",
