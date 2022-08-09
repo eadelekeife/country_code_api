@@ -3565,9 +3565,9 @@
         "emoji": "🇸🇦",
         "flag": "https://flagcdn.com/48x36/sa.png",
         "currency": "Saudi riyal - ر.س",
-        "continent": "",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+966"
     },
     {
         "code": "SB",
