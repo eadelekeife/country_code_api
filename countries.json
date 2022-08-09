@@ -3545,7 +3545,7 @@
         "currency": "Russian ruble - ₽",
         "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+7"
     },
     {
         "code": "RW",
@@ -3554,7 +3554,7 @@
         "emoji": "🇷🇼",
         "flag": "https://flagcdn.com/48x36/rw.png",
         "currency": "",
-        "continent": "",
+        "continent": "Africa",
         "states": [],
         "callCodes": ""
     },
