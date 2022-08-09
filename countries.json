@@ -3608,10 +3608,10 @@
         "name": "Sweden",
         "emoji": "🇸🇪",
         "flag": "https://flagcdn.com/48x36/se.png",
-        "currency": "",
+        "currency": "Swedish Krona - ",
         "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+46"
     },
     {
         "code": "SG",
