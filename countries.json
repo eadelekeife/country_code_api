@@ -3620,9 +3620,9 @@
         "emoji": "🇸🇬",
         "flag": "https://flagcdn.com/48x36/sg.png",
         "currency": "",
-        "continent": "",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+65"
     },
     {
         "code": "SH",
