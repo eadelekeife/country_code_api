@@ -9,56 +9,134 @@ const apiRouter = express.Router();
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-app.use('/api/v1/countries', apiRouter);
+app.use('/api/v1', apiRouter);
 
-apiRouter.get('/countries', (req, res) => {
+apiRouter.get('/', (req, res) => {
     let url = path.join(__dirname, 'countries.json');
     let readFile = util.promisify(fs.readFile);
     readFile(url, 'utf-8')
         .then(data => {
-            console.log(JSON.parse(data)[0])
-        })
-    res.send('done');
-})
-
-apiRouter.get('/country/:name', (req, res) => {
-    let url = path.join(__dirname, 'countries.json');
-    let readFile = util.promisify(fs.readFile);
-    readFile(url, 'utf-8')
-        .then(data => {
-            let newCountryData = JSON.parse(data);
-            let filteredCountry = newCountryData.find(country => {
-                if (country.code.toLowerCase() === req.params.name.toLowerCase()) {
-                    return country;
-                }
-            })
-            if (filteredCountry) {
-                let successMessage = {
-                    status: 200,
-                    statusMessage: "success",
-                    summary: 'Country data fetched successfully',
-                    message: filteredCountry
-                };
-                res.json(successMessage);
-            } else {
-                let errorMessage = {
-                    status: 404,
-                    statusMessage: "error",
-                    summary: 'Country not found',
-                    message: ''
-                };
-                res.json(errorMessage);
-            }
+            let successMessage = {
+                status: 200,
+                statusMessage: "success",
+                summary: 'Country data fetched successfully',
+                message: JSON.parse(data)
+            };
+            res.json(successMessage);
         })
         .catch(err => {
             let errorMessage = {
-                status: 400,
+                status: 404,
                 statusMessage: "error",
-                summary: 'Failed to fetch Country data',
+                summary: 'An error occurred while fetching country data. Please try again',
                 message: ''
             };
             res.json(errorMessage);
         })
+})
+
+apiRouter.get('/country', (req, res) => {
+    if (req.query.countryCode || req.query.name) {
+        let url = path.join(__dirname, 'countries.json');
+        let readFile = util.promisify(fs.readFile);
+        readFile(url, 'utf-8')
+            .then(data => {
+                let newCountryData = JSON.parse(data);
+                let filteredCountry = newCountryData.find(country => {
+                    if ((country.code.toLowerCase() === req.query?.countryCode?.toLowerCase()) ||
+                        (country.name.toLowerCase() === req.query?.name?.toLowerCase())
+                    ) {
+                        return country;
+                    }
+                })
+                if (filteredCountry) {
+                    let successMessage = {
+                        status: 200,
+                        statusMessage: "success",
+                        summary: 'Country data fetched successfully',
+                        message: filteredCountry
+                    };
+                    res.json(successMessage);
+                } else {
+                    let errorMessage = {
+                        status: 404,
+                        statusMessage: "error",
+                        summary: 'Country not found',
+                        message: ''
+                    };
+                    res.json(errorMessage);
+                }
+            })
+            .catch(err => {
+                let errorMessage = {
+                    status: 400,
+                    statusMessage: "error",
+                    summary: 'Failed to fetch Country data',
+                    message: ''
+                };
+                res.json(errorMessage);
+            })
+    } else {
+        let errorMessage = {
+            status: 400,
+            statusMessage: "error",
+            summary: 'Please search for country data using either name, unicode or country code',
+            message: ''
+        };
+        res.json(errorMessage);
+    }
+})
+
+apiRouter.get('/unicode', (req, res) => {
+    if (req.query.countryCode || req.query.name) {
+        let url = path.join(__dirname, 'countries.json');
+        let readFile = util.promisify(fs.readFile);
+        readFile(url, 'utf-8')
+            .then(data => {
+                let newCountryData = JSON.parse(data);
+                let filteredCountry = newCountryData.find(country => {
+                    if ((country.code.toLowerCase() === req.query?.countryCode?.toLowerCase()) ||
+                        (country.name.toLowerCase() === req.query?.name?.toLowerCase())
+                    ) {
+                        return country;
+                    }
+                })
+                if (filteredCountry) {
+                    let successMessage = {
+                        status: 200,
+                        statusMessage: "success",
+                        summary: 'Country data fetched successfully',
+                        message: filteredCountry.unicode
+                    };
+                    res.json(successMessage);
+                } else {
+                    let errorMessage = {
+                        status: 404,
+                        statusMessage: "error",
+                        summary: 'Country not found',
+                        message: ''
+                    };
+                    res.json(errorMessage);
+                }
+            })
+            .catch(err => {
+                let errorMessage = {
+                    status: 400,
+                    statusMessage: "error",
+                    summary: 'Failed to fetch Country data',
+                    message: ''
+                };
+                res.json(errorMessage);
+            })
+    } else {
+        let errorMessage = {
+            status: 400,
+            statusMessage: "error",
+            summary: 'Please search for country data using either name, unicode or country code',
+            message: ''
+        };
+        res.json(errorMessage);
+    }
 })
 
 apiRouter.get('/country/flag/:name', (req, res) => {
@@ -90,7 +168,8 @@ apiRouter.get('/country/flag/:name', (req, res) => {
                 res.json(errorMessage);
             }
         })
-        .catch(err => {console.log(err)
+        .catch(err => {
+            console.log(err)
             let errorMessage = {
                 status: 400,
                 statusMessage: "error",
@@ -130,7 +209,8 @@ apiRouter.get('/country/name/:name', (req, res) => {
                 res.json(errorMessage);
             }
         })
-        .catch(err => {console.log(err)
+        .catch(err => {
+            console.log(err)
             let errorMessage = {
                 status: 400,
                 statusMessage: "error",
@@ -170,7 +250,8 @@ apiRouter.get('/country/unicode/:name', (req, res) => {
                 res.json(errorMessage);
             }
         })
-        .catch(err => {console.log(err)
+        .catch(err => {
+            console.log(err)
             let errorMessage = {
                 status: 400,
                 statusMessage: "error",
