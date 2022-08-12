@@ -80,7 +80,7 @@ apiRouter.get('/country', (req, res) => {
         let errorMessage = {
             status: 400,
             statusMessage: "error",
-            summary: 'Please search for country data using either name, unicode or country code',
+            summary: 'Please search for country data using either name or country code',
             message: ''
         };
         res.json(errorMessage);
@@ -132,7 +132,7 @@ apiRouter.get('/unicode', (req, res) => {
         let errorMessage = {
             status: 400,
             statusMessage: "error",
-            summary: 'Please search for country data using either name, unicode or country code',
+            summary: 'Please search for country data using either name or country code',
             message: ''
         };
         res.json(errorMessage);
