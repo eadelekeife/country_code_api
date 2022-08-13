@@ -3644,7 +3644,7 @@
         "currency": "Slovak koruna - kr",
         "continent": "Europe",
         "states": [],
-        "callCodes": "421"
+        "callCodes": "+421"
     },
     {
         "code": "SL",
@@ -3652,7 +3652,7 @@
         "name": "Sierra Leone",
         "emoji": "🇸🇱",
         "flag": "https://flagcdn.com/48x36/sl.png",
-        "currency": "",
+        "currency": "Sierra Leonean leone - Le",
         "continent": "Africa",
         "states": [],
         "callCodes": ""
