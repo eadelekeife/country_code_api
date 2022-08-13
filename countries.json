@@ -3768,26 +3768,15 @@
         "callCodes": "+268"
     },
     {
-        "code": "TA",
-        "unicode": "U+1F1F9 U+1F1E6",
-        "name": "Tristan da Cunha",
-        "emoji": "🇹🇦",
-        "flag": "https://flagcdn.com/48x36/ta.png",
-        "currency": "",
-        "continent": "",
-        "states": [],
-        "callCodes": ""
-    },
-    {
         "code": "TC",
         "unicode": "U+1F1F9 U+1F1E8",
         "name": "Turks & Caicos Islands",
         "emoji": "🇹🇨",
         "flag": "https://flagcdn.com/48x36/tc.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "TD",
@@ -3795,10 +3784,10 @@
         "name": "Chad",
         "emoji": "🇹🇩",
         "flag": "https://flagcdn.com/48x36/td.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Central African CFA franc - FCFA",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+235"
     },
     {
         "code": "TF",
