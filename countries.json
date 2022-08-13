@@ -3795,10 +3795,10 @@
         "name": "French Southern Territories",
         "emoji": "🇹🇫",
         "flag": "https://flagcdn.com/48x36/tf.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Antarctica",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+262"
     },
     {
         "code": "TG",
@@ -3806,10 +3806,10 @@
         "name": "Togo",
         "emoji": "🇹🇬",
         "flag": "https://flagcdn.com/48x36/tg.png",
-        "currency": "",
-        "continent": "",
+        "currency": "West African CFA franc - CFA",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+228"
     },
     {
         "code": "TH",
