@@ -1,0 +1,37 @@
+ALL
+https://countrydataapi.com/v1/api/all
+
+NAME
+Search by country name. It can be the native name or partial name
+https://restcountries.com/v2/name/{name}
+https://restcountries.com/v2/name/peru
+https://restcountries.com/v2/name/united
+
+
+https://restcountries.com/v3.1/alpha/{code}
+Search country data by code
+Search country data by name
+
+Search country data unicode
+
+CODE
+Search by ISO 3166-1 2-letter or 3-letter country code      England - unicode  || England - code
+
+
+CURRENCY
+Search by ISO 4217 currency code
+
+https://restcountries.com/v2/currency/{currency}
+https://restcountries.com/v2/currency/pen
+
+
+CALLING CODE
+Search by calling code
+
+https://restcountries.com/v2/callingcode/{callingcode}
+https://restcountries.com/v2/callingcode/51
+
+
+
+CONTINENT
+Search by continent (region): Africa, Americas, Asia, Europe, Oceania

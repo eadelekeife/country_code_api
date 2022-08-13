@@ -460,8 +460,8 @@ apiRouter.get('/commoncurrency', (req, res) => {
                 let newCountryData = JSON.parse(data);
                 let filteredCountry = [];
                 newCountryData.filter(country => {
-                    if ((country.currency.split('-')[0].toLowerCase() === req.query?.currencyName?.toLowerCase().trim()) ||
-                        (country.currency.split('-')[1].toLowerCase() === req.query?.currencySymbol?.toLowerCase().trim())
+                    if ((country?.currency?.split('-')[0]?.toLowerCase() === req.query?.currencyName?.toLowerCase()?.trim()) ||
+                        (country?.currency?.split('-')[1]?.toLowerCase() === req.query?.currencySymbol?.toLowerCase()?.trim())
                     ) {
                         filteredCountry.push(country)
                     }
@@ -485,6 +485,7 @@ apiRouter.get('/commoncurrency', (req, res) => {
                 }
             })
             .catch(err => {
+                console.log(err)
                 let errorMessage = {
                     status: 400,
                     statusMessage: "error",
@@ -503,6 +504,10 @@ apiRouter.get('/commoncurrency', (req, res) => {
         res.json(errorMessage);
     }
 })
+
+commoncurrency
+commondialcodes //Some countries have same dialcodes
+commoncontinent
 
 apiRouter.get('/country/flag/:name', (req, res) => {
     let url = path.join(__dirname, 'countries.json');
