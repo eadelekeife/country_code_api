@@ -460,8 +460,8 @@ apiRouter.get('/commoncurrency', (req, res) => {
                 let newCountryData = JSON.parse(data);
                 let filteredCountry = [];
                 newCountryData.filter(country => {
-                    if ((country.currency.split('-')[0].toLowerCase() === req.query?.currencyName?.toLowerCase()) ||
-                        (country.currency.split('-')[1].toLowerCase() === req.query?.currencySymbol?.toLowerCase())
+                    if ((country.currency.split('-')[0].toLowerCase() === req.query?.currencyName?.toLowerCase().trim()) ||
+                        (country.currency.split('-')[1].toLowerCase() === req.query?.currencySymbol?.toLowerCase().trim())
                     ) {
                         filteredCountry.push(country)
                     }
