@@ -3707,10 +3707,10 @@
         "name": "South Sudan",
         "emoji": "🇸🇸",
         "flag": "https://flagcdn.com/48x36/ss.png",
-        "currency": "",
-        "continent": "",
+        "currency": "South Sudanese pound - £",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+211"
     },
     {
         "code": "ST",
