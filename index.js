@@ -366,7 +366,7 @@ apiRouter.get('/currencySymbol', (req, res) => {
                         status: 200,
                         statusMessage: "success",
                         summary: 'Country data fetched successfully',
-                        message: filteredCountry
+                        message: filteredCountry?.currency?.split('-')[1]?.trim()
                     };
                     res.json(successMessage);
                 } else {
