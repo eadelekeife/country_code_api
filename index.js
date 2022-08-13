@@ -380,6 +380,7 @@ apiRouter.get('/currencySymbol', (req, res) => {
                 }
             })
             .catch(err => {
+                console.log(err)
                 let errorMessage = {
                     status: 400,
                     statusMessage: "error",
