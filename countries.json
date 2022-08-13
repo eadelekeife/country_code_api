@@ -3721,7 +3721,7 @@
         "currency": "São Tomé and Príncipe dobra - Db",
         "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+239"
     },
     {
         "code": "SV",
@@ -3729,10 +3729,10 @@
         "name": "El Salvador",
         "emoji": "🇸🇻",
         "flag": "https://flagcdn.com/48x36/sv.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Bitcoin - ₿",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+503"
     },
     {
         "code": "SX",
@@ -3740,10 +3740,10 @@
         "name": "Sint Maarten",
         "emoji": "🇸🇽",
         "flag": "https://flagcdn.com/48x36/sx.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Netherlands Antillean guilder - NAf",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+721"
     },
     {
         "code": "SY",
@@ -3751,10 +3751,10 @@
         "name": "Syria",
         "emoji": "🇸🇾",
         "flag": "https://flagcdn.com/48x36/sy.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Syrian pound - £S",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+963"
     },
     {
         "code": "SZ",
