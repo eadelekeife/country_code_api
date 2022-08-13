@@ -3966,28 +3966,6 @@
         "callCodes": ""
     },
     {
-        "code": "UM",
-        "unicode": "U+1F1FA U+1F1F2",
-        "name": "U.S. Outlying Islands",
-        "emoji": "🇺🇲",
-        "flag": "https://flagcdn.com/48x36/um.png",
-        "currency": "",
-        "continent": "",
-        "states": [],
-        "callCodes": ""
-    },
-    {
-        "code": "UN",
-        "unicode": "U+1F1FA U+1F1F3",
-        "name": "United Nations",
-        "emoji": "🇺🇳",
-        "flag": "https://flagcdn.com/48x36/un.png",
-        "currency": "",
-        "continent": "",
-        "states": [],
-        "callCodes": ""
-    },
-    {
         "code": "US",
         "unicode": "U+1F1FA U+1F1F8",
         "name": "United States",
