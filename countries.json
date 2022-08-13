@@ -3686,9 +3686,9 @@
         "emoji": "🇸🇴",
         "flag": "https://flagcdn.com/48x36/so.png",
         "currency": "The Somali shilling - Sh.so.",
-        "continent": "",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+252"
     },
     {
         "code": "SR",
