@@ -3696,10 +3696,10 @@
         "name": "Suriname",
         "emoji": "🇸🇷",
         "flag": "https://flagcdn.com/48x36/sr.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Surinamese dollar - $",
+        "continent": "South America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+597"
     },
     {
         "code": "SS",
