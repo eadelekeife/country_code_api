@@ -3762,10 +3762,10 @@
         "name": "Swaziland",
         "emoji": "🇸🇿",
         "flag": "https://flagcdn.com/48x36/sz.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Swazi Lilangeni - L",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+268"
     },
     {
         "code": "TA",
