@@ -3817,7 +3817,7 @@
         "name": "Thailand",
         "emoji": "🇹🇭",
         "flag": "https://flagcdn.com/48x36/th.png",
-        "currency": "Thai Baht",
+        "currency": "Thai Baht -",
         "continent": "Asia",
         "states": [],
         "callCodes": ""
