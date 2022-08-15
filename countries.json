@@ -3834,17 +3834,6 @@
         "callCodes": "+992"
     },
     {
-        "code": "TK",
-        "unicode": "U+1F1F9 U+1F1F0",
-        "name": "Tokelau",
-        "emoji": "🇹🇰",
-        "flag": "https://flagcdn.com/48x36/tk.png",
-        "currency": "",
-        "continent": "",
-        "states": [],
-        "callCodes": ""
-    },
-    {
         "code": "TL",
         "unicode": "U+1F1F9 U+1F1F1",
         "name": "Timor-Leste",
