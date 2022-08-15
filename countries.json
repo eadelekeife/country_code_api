@@ -3905,10 +3905,10 @@
         "name": "Tuvalu",
         "emoji": "🇹🇻",
         "flag": "https://flagcdn.com/48x36/tv.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Australian Dollar - AUD",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+688"
     },
     {
         "code": "TW",
