@@ -3916,10 +3916,10 @@
         "name": "Taiwan",
         "emoji": "🇹🇼",
         "flag": "https://flagcdn.com/48x36/tw.png",
-        "currency": "",
-        "continent": "",
+        "currency": "New Taiwan dollar - NT$",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+886"
     },
     {
         "code": "TZ",
@@ -3927,10 +3927,10 @@
         "name": "Tanzania",
         "emoji": "🇹🇿",
         "flag": "https://flagcdn.com/48x36/tz.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Tanzanian shilling - TZS",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+255"
     },
     {
         "code": "UA",
@@ -3938,10 +3938,10 @@
         "name": "Ukraine",
         "emoji": "🇺🇦",
         "flag": "https://flagcdn.com/48x36/ua.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Ukrainian hryvnia - ₴",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+380"
     },
     {
         "code": "UG",
@@ -3949,10 +3949,10 @@
         "name": "Uganda",
         "emoji": "🇺🇬",
         "flag": "https://flagcdn.com/48x36/ug.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Ugandan shilling - USh",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+256"
     },
     {
         "code": "US",
@@ -3960,10 +3960,10 @@
         "name": "United States",
         "emoji": "🇺🇸",
         "flag": "https://flagcdn.com/48x36/us.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "UY",
@@ -3971,10 +3971,10 @@
         "name": "Uruguay",
         "emoji": "🇺🇾",
         "flag": "https://flagcdn.com/48x36/uy.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Uruguayan Peso - $U",
+        "continent": "South America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+598"
     },
     {
         "code": "UZ",
@@ -3982,10 +3982,10 @@
         "name": "Uzbekistan",
         "emoji": "🇺🇿",
         "flag": "https://flagcdn.com/48x36/uz.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Uzbekistani soʻm - so'm",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+998"
     },
     {
         "code": "VA",
@@ -3993,10 +3993,10 @@
         "name": "Vatican City",
         "emoji": "🇻🇦",
         "flag": "https://flagcdn.com/48x36/va.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+379"
     },
     {
         "code": "VC",
@@ -4004,10 +4004,10 @@
         "name": "St. Vincent & Grenadines",
         "emoji": "🇻🇨",
         "flag": "https://flagcdn.com/48x36/vc.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Eastern Caribbean dollar - $",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "VE",
@@ -4015,15 +4015,15 @@
         "name": "Venezuela",
         "emoji": "🇻🇪",
         "flag": "https://flagcdn.com/48x36/ve.png",
-        "currency": "",
-        "continent": "",
+        "currency": "the bolivar - Bs.",
+        "continent": "South America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+58"
     },
     {
         "code": "VG",
         "unicode": "U+1F1FB U+1F1EC",
-        "name": "British Virgin Islands",
+        "name": "British Virgin Islands",f
         "emoji": "🇻🇬",
         "flag": "https://flagcdn.com/48x36/vg.png",
         "currency": "",
