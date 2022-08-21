@@ -407,20 +407,6 @@
         "flag": "https://flagcdn.com/48x36/cg.png",
         "currency": "Central African CFA franc - FCFA",
         "continent": "Africa",
-        "states": [
-            "Bouenza",
-            "Cuvette",
-            "Cuvette-Ouest",
-            "Kouilou",
-            "Lékoumou",
-            "Brazzaville",
-            "Likouala",
-            "Niari",
-            "Plateaux",
-            "Pool (Kinkala)",
-            "Sangha",
-            "Pointe Noire"
-        ],
         "callCodes": "+242"
     },
     {
@@ -431,34 +417,6 @@
         "flag": "https://flagcdn.com/48x36/ch.png",
         "currency": "Swiss franc - CHf",
         "continent": "Europe",
-        "states": [
-            "Zürich",
-            "Bern",
-            "Luzern",
-            "Uri",
-            "Schwyz",
-            "Unterwalden",
-            "Glarus",
-            "Zug",
-            "Freiburg",
-            "Solothurn",
-            "Basel",
-            "Schaffhausen",
-            "Appenzell",
-            "Sankt Gallen",
-            "Graubünden",
-            "Aargau",
-            "Thurgau",
-            "Ticino",
-            "Vaud",
-            "Valais / Wallis",
-            "Neuchâtel",
-            "Genève",
-            "Jura",
-            "Canton of Neuchâtel",
-            "Canton of Geneva",
-            "Canton of Jura"
-        ],
         "callCodes": "+41"
     },
     {
@@ -469,41 +427,6 @@
         "flag": "https://flagcdn.com/48x36/ci.png",
         "currency": "West African CFA franc - CFA",
         "continent": "Africa",
-        "states": [
-            "Abidjan",
-            "Agnéby-Tiassa",
-            "Bafing",
-            "Bagoué",
-            "Bélier Region",
-            "Béré",
-            "Bounkani",
-            "Cavally",
-            "Folon",
-            "Gbêkê",
-            "Gbôklé",
-            "Gôh",
-            "Gontougo",
-            "Grands-Ponts",
-            "Guémon",
-            "Hambol",
-            "Haut-Sassandra",
-            "Iffou",
-            "Indénié-Djuablin",
-            "Kabadougou",
-            "La Mé",
-            "Lôh-Djiboua",
-            "Marahoué",
-            "Moronou",
-            "Nawa",
-            "N'Zi",
-            "Poro",
-            "San-Pédro",
-            "Sud-Comoé",
-            "Tchologo",
-            "Tonkpi",
-            "Worodougou",
-            "Yamoussoukro"
-        ],
         "callCodes": "+225"
     },
     {
@@ -514,7 +437,6 @@
         "flag": "https://flagcdn.com/48x36/ck.png",
         "currency": "Cook Islands dollar - $",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+682"
     },
     {
@@ -525,24 +447,6 @@
         "flag": "https://flagcdn.com/48x36/cl.png",
         "currency": "Chilean peso - $",
         "continent": "South America",
-        "states": [
-            "Región de Arica y Parinacota",
-            "Región de Tarapacá",
-            "Región de Antofagasta",
-            "Región de Atacama",
-            "Región de Coquimbo",
-            "Región de Valparaíso",
-            "Región Metropolitana de Santiago",
-            "Región del Libertador General Bernardo O'Higgins",
-            "Región del Maule",
-            "Región de Ñuble",
-            "Región del Biobío",
-            "Región de La Araucanía",
-            "Región de Los Ríos",
-            "Región de Los Lagos",
-            "Región Aysén del General Carlos Ibáñez del Campo",
-            "Región de Magallanes y de la Antártica Chilena"
-        ],
         "callCodes": "+56"
     },
     {
@@ -553,18 +457,6 @@
         "flag": "https://flagcdn.com/48x36/cm.png",
         "currency": "Central African CFA franc - FCFA",
         "continent": "Africa",
-        "states": [
-            "Adamaoua",
-            "Centre",
-            "Est",
-            "Extrême-Nord",
-            "Littoral",
-            "Nord",
-            "Nord-Ouest",
-            "Sud",
-            "Sud-Ouest",
-            "Ouest"
-        ],
         "callCodes": "+237"
     },
     {
@@ -575,42 +467,6 @@
         "flag": "https://flagcdn.com/48x36/cn.png",
         "currency": "Renminbi - ¥",
         "continent": "Asia",
-        "states": [
-            "Anhui",
-            "Beijing",
-            "Chongqing",
-            "Fujian",
-            "Gansu",
-            "Guangdong",
-            "Guangxi Zhuang Autonomous Region",
-            "Guizhou",
-            "Hainan",
-            "Hebei",
-            "Heilongjiang",
-            "Henan",
-            "Hong Kong",
-            "Hubei",
-            "Hunan",
-            "Inner Mongolia",
-            "Jiangsu",
-            "Jiangxi",
-            "Jilin",
-            "Keelung",
-            "Liaoning",
-            "Macau",
-            "Ningxia Hui Autonomous Region",
-            "Qinghai",
-            "Shaanxi",
-            "Shandong",
-            "Shanghai",
-            "Shanxi",
-            "Sichuan",
-            "Taiwan Province",
-            "Tibet Autonomous Region",
-            "Xinjiang",
-            "Yunnan",
-            "Zhejiang"
-        ],
         "callCodes": "+86"
     },
     {
@@ -621,40 +477,6 @@
         "flag": "https://flagcdn.com/48x36/co.png",
         "currency": "Colombian peso - $",
         "continent": "South America",
-        "states": [
-            "Amazonas",
-            "Antioquia",
-            "Arauca",
-            "Atlantico",
-            "Bogota",
-            "Bolivar",
-            "Boyaca",
-            "Caldas",
-            "Caqueta",
-            "Casanare",
-            "Cauca",
-            "Cesar",
-            "Choco",
-            "Cordoba",
-            "Cundinamarca",
-            "Guainia",
-            "Guaviare",
-            "Huila",
-            "La Guajira",
-            "Magdalena",
-            "Meta",
-            "Narino",
-            "Norte De Santander",
-            "Putumayo",
-            "Quindio",
-            "Risaralda",
-            "Santander",
-            "Sucre",
-            "Tolima",
-            "Valle Del Cauca",
-            "Vaupes",
-            "Vichada"
-        ],
         "callCodes": "+57"
     },
     {
@@ -739,7 +561,6 @@
         "flag": "https://flagcdn.com/48x36/cw.png",
         "currency": "Netherlands Antillean guilder - NAf",
         "continent": "South America",
-        "states": [],
         "callCodes": "+599"
     },
     {
@@ -750,7 +571,6 @@
         "flag": "https://flagcdn.com/48x36/cx.png",
         "currency": "Australian dollar - AUD",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+61"
     },
     {
@@ -1326,7 +1146,6 @@
         "flag": "https://flagcdn.com/48x36/gb.png",
         "currency": "Pound sterling - £",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+44"
     },
     {
@@ -1361,7 +1180,6 @@
         "flag": "https://flagcdn.com/48x36/gf.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+594"
     },
     {
@@ -1372,7 +1190,6 @@
         "flag": "https://flagcdn.com/48x36/gg.png",
         "currency": "The pound - £",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+44"
     },
     {
@@ -1487,7 +1304,6 @@
         "flag": "https://flagcdn.com/48x36/gp.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+590"
     },
     {
@@ -1576,7 +1392,6 @@
         "flag": "https://flagcdn.com/48x36/gu.png",
         "currency": "United States Dollar - $",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -1866,7 +1681,6 @@
         "flag": "https://flagcdn.com/48x36/im.png",
         "currency": "Pound sterling - £",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+44"
     },
     {
@@ -1918,7 +1732,6 @@
         "flag": "https://flagcdn.com/48x36/io.png",
         "currency": "Pound sterling - £",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+246"
     },
     {
@@ -2055,7 +1868,6 @@
         "flag": "https://flagcdn.com/48x36/jm.png",
         "currency": "Jamaican dollar - $",
         "continent": "North America",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -2066,7 +1878,6 @@
         "flag": "https://flagcdn.com/48x36/jo.png",
         "currency": "Jordanian Dinar - د.ا",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+962"
     },
     {
@@ -2077,7 +1888,6 @@
         "flag": "https://flagcdn.com/48x36/jp.png",
         "currency": "Japanese Yen - ¥",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+81"
     },
     {
@@ -2088,7 +1898,6 @@
         "flag": "https://flagcdn.com/48x36/ke.png",
         "currency": "Kenyan Shilling - Ksh",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+254"
     },
     {
@@ -2099,7 +1908,6 @@
         "flag": "https://flagcdn.com/48x36/kg.png",
         "currency": "Kyrgyzstani som - Лв",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+996"
     },
     {
@@ -2110,7 +1918,6 @@
         "flag": "https://flagcdn.com/48x36/kh.png",
         "currency": "Cambodian riel - ៛",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+855"
     },
     {
@@ -2121,7 +1928,6 @@
         "flag": "https://flagcdn.com/48x36/ki.png",
         "currency": "Australian Dollar - AUD",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+686"
     },
     {
@@ -2132,7 +1938,6 @@
         "flag": "https://flagcdn.com/48x36/km.png",
         "currency": "Comorian franc - CF",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+269"
     },
     {
@@ -2143,7 +1948,6 @@
         "flag": "https://flagcdn.com/48x36/kn.png",
         "currency": "Eastern Caribbean dollar - EC$",
         "continent": "North America",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -2154,7 +1958,6 @@
         "flag": "https://flagcdn.com/48x36/kp.png",
         "currency": "North Korean won - ₩",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+850"
     },
     {
@@ -2165,7 +1968,6 @@
         "flag": "https://flagcdn.com/48x36/kr.png",
         "currency": "South Korean won - ₩",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+82"
     },
     {
@@ -2176,7 +1978,6 @@
         "flag": "https://flagcdn.com/48x36/kw.png",
         "currency": "Kuwaiti dinar - د.ك",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+965"
     },
     {
@@ -2187,7 +1988,6 @@
         "flag": "https://flagcdn.com/48x36/ky.png",
         "currency": "Cayman Islands dollar - $",
         "continent": "North America",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -2198,7 +1998,6 @@
         "flag": "https://flagcdn.com/48x36/kz.png",
         "currency": "Kazakhstani Tenge -  ₸",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+7"
     },
     {
@@ -2209,7 +2008,6 @@
         "flag": "https://flagcdn.com/48x36/la.png",
         "currency": "Lao kip - ₭N",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+856"
     },
     {
@@ -2220,7 +2018,6 @@
         "flag": "https://flagcdn.com/48x36/lb.png",
         "currency": "Lebanese pound -  ل.ل.",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+961"
     },
     {
@@ -2231,7 +2028,6 @@
         "flag": "https://flagcdn.com/48x36/lc.png",
         "currency": "Eastern Caribbean dollar - $",
         "continent": "North America",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -2242,7 +2038,6 @@
         "flag": "https://flagcdn.com/48x36/li.png",
         "currency": "Swiss franc - CHf",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+423"
     },
     {
@@ -2253,7 +2048,6 @@
         "flag": "https://flagcdn.com/48x36/lk.png",
         "currency": "Sri Lankan rupee - රු",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+94"
     },
     {
@@ -2264,7 +2058,6 @@
         "flag": "https://flagcdn.com/48x36/lr.png",
         "currency": "Liberian dollar - L$",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+231"
     },
     {
@@ -2275,7 +2068,6 @@
         "flag": "https://flagcdn.com/48x36/ls.png",
         "currency": "Lesotho loti - M",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+266"
     },
     {
@@ -2286,7 +2078,6 @@
         "flag": "https://flagcdn.com/48x36/lt.png",
         "currency": "Lithuanian litas - Lt",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+370"
     },
     {
@@ -2297,7 +2088,6 @@
         "flag": "https://flagcdn.com/48x36/lu.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+352"
     },
     {
@@ -2308,7 +2098,6 @@
         "flag": "https://flagcdn.com/48x36/lv.png",
         "currency": "Latvian lats Latvijas - Ls",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+371"
     },
     {
@@ -2319,7 +2108,6 @@
         "flag": "https://flagcdn.com/48x36/ly.png",
         "currency": "Libyan Dinar - ل.د",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+218"
     },
     {
@@ -2330,7 +2118,6 @@
         "flag": "https://flagcdn.com/48x36/ma.png",
         "currency": "Moroccan Dirham - MAD",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+212"
     },
     {
@@ -2341,7 +2128,6 @@
         "flag": "https://flagcdn.com/48x36/mc.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+377"
     },
     {
@@ -2352,7 +2138,6 @@
         "flag": "https://flagcdn.com/48x36/md.png",
         "currency": "Moldovan Leu - L",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+373"
     },
     {
@@ -2363,7 +2148,6 @@
         "flag": "https://flagcdn.com/48x36/me.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+382"
     },
     {
@@ -2374,7 +2158,6 @@
         "flag": "https://flagcdn.com/48x36/mf.png",
         "currency": "Netherlands Antillean Guilder - NAf",
         "continent": "North America",
-        "states": [],
         "callCodes": "+721"
     },
     {
@@ -2385,7 +2168,6 @@
         "flag": "https://flagcdn.com/48x36/mg.png",
         "currency": "Malagasy ariary - Ar",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+261"
     },
     {
@@ -2396,7 +2178,6 @@
         "flag": "https://flagcdn.com/48x36/mh.png",
         "currency": "US Dollar - $",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+692"
     },
     {
@@ -2407,7 +2188,6 @@
         "flag": "https://flagcdn.com/48x36/mk.png",
         "currency": "Macedonian Denar - Ден",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+389"
     },
     {
@@ -2418,7 +2198,6 @@
         "flag": "https://flagcdn.com/48x36/ml.png",
         "currency": "West African CFA franc - CFA",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+223"
     },
     {
@@ -2429,7 +2208,6 @@
         "flag": "https://flagcdn.com/48x36/mm.png",
         "currency": "Myanmar kyat - K",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+95"
     },
     {
@@ -2440,7 +2218,6 @@
         "flag": "https://flagcdn.com/48x36/mn.png",
         "currency": "Mongolian tögrög - ₮",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+976"
     },
     {
@@ -2451,7 +2228,6 @@
         "flag": "https://flagcdn.com/48x36/mo.png",
         "currency": "Macanese pataca - MOP$",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+853"
     },
     {
@@ -2462,7 +2238,6 @@
         "flag": "https://flagcdn.com/48x36/mp.png",
         "currency": "United States Dollar - $",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -2473,7 +2248,6 @@
         "flag": "https://flagcdn.com/48x36/mq.png",
         "currency": "Euro - €",
         "continent": "North America",
-        "states": [],
         "callCodes": "+596"
     },
     {
@@ -2484,7 +2258,6 @@
         "flag": "https://flagcdn.com/48x36/mr.png",
         "currency": "Mauritanian ouguiya - UM",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+222"
     },
     {
@@ -2495,7 +2268,6 @@
         "flag": "https://flagcdn.com/48x36/ms.png",
         "currency": "Eastern Caribbean dollar - $",
         "continent": "North America",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -2506,7 +2278,6 @@
         "flag": "https://flagcdn.com/48x36/mt.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+356"
     },
     {
@@ -2517,7 +2288,6 @@
         "flag": "https://flagcdn.com/48x36/mu.png",
         "currency": "Mauritian rupee - Rs",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+230"
     },
     {
@@ -2528,7 +2298,6 @@
         "flag": "https://flagcdn.com/48x36/mv.png",
         "currency": "Maldivian Rufiyaa - Rf",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+960"
     },
     {
@@ -2539,7 +2308,6 @@
         "flag": "https://flagcdn.com/48x36/mw.png",
         "currency": "Malawian kwacha - MK",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+265"
     },
     {
@@ -2550,7 +2318,6 @@
         "flag": "https://flagcdn.com/48x36/mx.png",
         "currency": "Mexican Peso - $",
         "continent": "North America",
-        "states": [],
         "callCodes": "+52"
     },
     {
@@ -2561,7 +2328,6 @@
         "flag": "https://flagcdn.com/48x36/my.png",
         "currency": "Malaysian ringgit - RM",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+60"
     },
     {
@@ -2572,7 +2338,6 @@
         "flag": "https://flagcdn.com/48x36/mz.png",
         "currency": "Mozambican metical - MT",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+258"
     },
     {
@@ -2583,7 +2348,6 @@
         "flag": "https://flagcdn.com/48x36/na.png",
         "currency": "Namibian dollar - N$",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+264"
     },
     {
@@ -2594,7 +2358,6 @@
         "flag": "https://flagcdn.com/48x36/nc.png",
         "currency": "CFP franc - ₣",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+687"
     },
     {
@@ -2605,7 +2368,6 @@
         "flag": "https://flagcdn.com/48x36/ne.png",
         "currency": "West African CFA franc - CFA",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+227"
     },
     {
@@ -2616,7 +2378,6 @@
         "flag": "https://flagcdn.com/48x36/nf.png",
         "currency": "Australian dollar - AUD",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+672"
     },
     {
@@ -2627,7 +2388,6 @@
         "flag": "https://flagcdn.com/48x36/ng.png",
         "currency": "Naira - ₦",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+234"
     },
     {
@@ -2638,7 +2398,6 @@
         "flag": "https://flagcdn.com/48x36/ni.png",
         "currency": "Nicaraguan Córdoba - C$",
         "continent": "North America",
-        "states": [],
         "callCodes": "+505"
     },
     {
@@ -2649,7 +2408,6 @@
         "flag": "https://flagcdn.com/48x36/nl.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+31"
     },
     {
@@ -2660,7 +2418,6 @@
         "flag": "https://flagcdn.com/48x36/no.png",
         "currency": "Norwegian Krone - kr",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+47"
     },
     {
@@ -2671,7 +2428,6 @@
         "flag": "https://flagcdn.com/48x36/np.png",
         "currency": "Nepalese rupee - Re",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+977"
     },
     {
@@ -2682,7 +2438,6 @@
         "flag": "https://flagcdn.com/48x36/nr.png",
         "currency": "Australian dollar - AUD",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+674"
     },
     {
@@ -2693,7 +2448,6 @@
         "flag": "https://flagcdn.com/48x36/nu.png",
         "currency": "New Zealand dollar - $",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+683"
     },
     {
@@ -2704,7 +2458,6 @@
         "flag": "https://flagcdn.com/48x36/nz.png",
         "currency": "New Zealand Dollar - $",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+64"
     },
     {
@@ -2715,7 +2468,6 @@
         "flag": "https://flagcdn.com/48x36/om.png",
         "currency": "Omani Rial - ر.ع.",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+968"
     },
     {
@@ -2726,7 +2478,6 @@
         "flag": "https://flagcdn.com/48x36/pa.png",
         "currency": "Panamanian Balboa - B/.",
         "continent": "North America",
-        "states": [],
         "callCodes": "+507"
     },
     {
@@ -2737,7 +2488,6 @@
         "flag": "https://flagcdn.com/48x36/pe.png",
         "currency": "South America",
         "continent": "The nuevo sol - S/",
-        "states": [],
         "callCodes": "+51"
     },
     {
@@ -2748,7 +2498,6 @@
         "flag": "https://flagcdn.com/48x36/pf.png",
         "currency": "CFP franc - ₣",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+689"
     },
     {
@@ -2759,7 +2508,6 @@
         "flag": "https://flagcdn.com/48x36/pg.png",
         "currency": "Papua New Guinean kina - K",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+675"
     },
     {
@@ -2770,7 +2518,6 @@
         "flag": "https://flagcdn.com/48x36/ph.png",
         "currency": "Philippine peso - ₱",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+63"
     },
     {
@@ -2781,7 +2528,6 @@
         "flag": "https://flagcdn.com/48x36/pk.png",
         "currency": "Pakistani Rupee -Rs",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+92"
     },
     {
@@ -2792,7 +2538,6 @@
         "flag": "https://flagcdn.com/48x36/pl.png",
         "currency": "Polish złoty - zł",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+48"
     },
     {
@@ -2803,7 +2548,6 @@
         "flag": "https://flagcdn.com/48x36/pm.png",
         "currency": "Euro - €",
         "continent": "North America",
-        "states": [],
         "callCodes": "+508"
     },
     {
@@ -2814,7 +2558,6 @@
         "flag": "https://flagcdn.com/48x36/pn.png",
         "currency": "New Zealand dollar - $",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+64"
     },
     {
@@ -2825,7 +2568,6 @@
         "flag": "https://flagcdn.com/48x36/pr.png",
         "currency": "United States Dollar - $",
         "continent": "North America",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -2836,7 +2578,6 @@
         "flag": "https://flagcdn.com/48x36/ps.png",
         "currency": "Palestine pound - £P",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+970"
     },
     {
@@ -2847,7 +2588,6 @@
         "flag": "https://flagcdn.com/48x36/pt.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+351"
     },
     {
@@ -2858,7 +2598,6 @@
         "flag": "https://flagcdn.com/48x36/pw.png",
         "currency": "United States Dollar - $",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+680"
     },
     {
@@ -2869,7 +2608,6 @@
         "flag": "https://flagcdn.com/48x36/py.png",
         "currency": "Paraguayan Guarani - ₲",
         "continent": "South America",
-        "states": [],
         "callCodes": "+595"
     },
     {
@@ -2880,7 +2618,6 @@
         "flag": "https://flagcdn.com/48x36/qa.png",
         "currency": "Qatari Riyal - ر.ق",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+974"
     },
     {
@@ -2891,7 +2628,6 @@
         "flag": "https://flagcdn.com/48x36/re.png",
         "currency": "Euro - €",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+262"
     },
     {
@@ -2902,7 +2638,6 @@
         "flag": "https://flagcdn.com/48x36/ro.png",
         "currency": "Romanian leu - lei",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+40"
     },
     {
@@ -2913,7 +2648,6 @@
         "flag": "https://flagcdn.com/48x36/rs.png",
         "currency": "Serbian dinar - din",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+381"
     },
     {
@@ -2924,7 +2658,6 @@
         "flag": "https://flagcdn.com/48x36/ru.png",
         "currency": "Russian ruble - ₽",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+7"
     },
     {
@@ -2935,7 +2668,6 @@
         "flag": "https://flagcdn.com/48x36/rw.png",
         "currency": "Rwandan franc - R₣",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+250"
     },
     {
@@ -2946,7 +2678,6 @@
         "flag": "https://flagcdn.com/48x36/sa.png",
         "currency": "Saudi riyal - ر.س",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+966"
     },
     {
@@ -2957,7 +2688,6 @@
         "flag": "https://flagcdn.com/48x36/sb.png",
         "currency": "Solomon Islands dollar - Si$",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+677"
     },
     {
@@ -2968,7 +2698,6 @@
         "flag": "https://flagcdn.com/48x36/sc.png",
         "currency": "Seychellois rupee - SRe",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+248"
     },
     {
@@ -2979,7 +2708,6 @@
         "flag": "https://flagcdn.com/48x36/sd.png",
         "currency": "Sudanese pound - LS.",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+249"
     },
     {
@@ -2990,7 +2718,6 @@
         "flag": "https://flagcdn.com/48x36/se.png",
         "currency": "Swedish Krona - Kr",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+46"
     },
     {
@@ -3001,7 +2728,6 @@
         "flag": "https://flagcdn.com/48x36/sg.png",
         "currency": "Singapore dollar - S$",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+65"
     },
     {
@@ -3012,7 +2738,6 @@
         "flag": "https://flagcdn.com/48x36/si.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+386"
     },
     {
@@ -3023,7 +2748,6 @@
         "flag": "https://flagcdn.com/48x36/sk.png",
         "currency": "Slovak koruna - kr",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+421"
     },
     {
@@ -3034,7 +2758,6 @@
         "flag": "https://flagcdn.com/48x36/sl.png",
         "currency": "Sierra Leonean leone - Le",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+232"
     },
     {
@@ -3045,7 +2768,6 @@
         "flag": "https://flagcdn.com/48x36/sm.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+378"
     },
     {
@@ -3056,7 +2778,6 @@
         "flag": "https://flagcdn.com/48x36/sn.png",
         "currency": "West African CFA franc - CFA",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+221"
     },
     {
@@ -3067,7 +2788,6 @@
         "flag": "https://flagcdn.com/48x36/so.png",
         "currency": "The Somali shilling - Sh.so.",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+252"
     },
     {
@@ -3078,7 +2798,6 @@
         "flag": "https://flagcdn.com/48x36/sr.png",
         "currency": "Surinamese dollar - $",
         "continent": "South America",
-        "states": [],
         "callCodes": "+597"
     },
     {
@@ -3089,7 +2808,6 @@
         "flag": "https://flagcdn.com/48x36/ss.png",
         "currency": "South Sudanese pound - £",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+211"
     },
     {
@@ -3100,7 +2818,6 @@
         "flag": "https://flagcdn.com/48x36/st.png",
         "currency": "São Tomé and Príncipe dobra - Db",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+239"
     },
     {
@@ -3111,7 +2828,6 @@
         "flag": "https://flagcdn.com/48x36/sv.png",
         "currency": "Bitcoin - ₿",
         "continent": "North America",
-        "states": [],
         "callCodes": "+503"
     },
     {
@@ -3122,7 +2838,6 @@
         "flag": "https://flagcdn.com/48x36/sx.png",
         "currency": "Netherlands Antillean guilder - NAf",
         "continent": "North America",
-        "states": [],
         "callCodes": "+721"
     },
     {
@@ -3133,7 +2848,6 @@
         "flag": "https://flagcdn.com/48x36/sy.png",
         "currency": "Syrian pound - £S",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+963"
     },
     {
@@ -3144,7 +2858,6 @@
         "flag": "https://flagcdn.com/48x36/sz.png",
         "currency": "Swazi Lilangeni - L",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+268"
     },
     {
@@ -3155,7 +2868,6 @@
         "flag": "https://flagcdn.com/48x36/tc.png",
         "currency": "United States Dollar - $",
         "continent": "North America",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -3166,7 +2878,6 @@
         "flag": "https://flagcdn.com/48x36/td.png",
         "currency": "Central African CFA franc - FCFA",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+235"
     },
     {
@@ -3177,7 +2888,6 @@
         "flag": "https://flagcdn.com/48x36/tf.png",
         "currency": "Euro - €",
         "continent": "Antarctica",
-        "states": [],
         "callCodes": "+262"
     },
     {
@@ -3188,7 +2898,6 @@
         "flag": "https://flagcdn.com/48x36/tg.png",
         "currency": "West African CFA franc - CFA",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+228"
     },
     {
@@ -3199,7 +2908,6 @@
         "flag": "https://flagcdn.com/48x36/th.png",
         "currency": "Thai Baht - ฿",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+66"
     },
     {
@@ -3210,7 +2918,6 @@
         "flag": "https://flagcdn.com/48x36/tj.png",
         "currency": "Tajikistani somoni - ЅM",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+992"
     },
     {
@@ -3221,7 +2928,6 @@
         "flag": "https://flagcdn.com/48x36/tl.png",
         "currency": "United States Dollar - $",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+670"
     },
     {
@@ -3232,7 +2938,6 @@
         "flag": "https://flagcdn.com/48x36/tm.png",
         "currency": "Turkmenistani manat - T",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+993"
     },
     {
@@ -3243,7 +2948,6 @@
         "flag": "https://flagcdn.com/48x36/tn.png",
         "currency": "Tunisian Dinar - د.ت",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+216"
     },
     {
@@ -3254,7 +2958,6 @@
         "flag": "https://flagcdn.com/48x36/to.png",
         "currency": "Tongan paʻanga - T$",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+676"
     },
     {
@@ -3265,7 +2968,6 @@
         "flag": "https://flagcdn.com/48x36/tr.png",
         "currency": "Turkish lira - ₺",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+90"
     },
     {
@@ -3276,7 +2978,6 @@
         "flag": "https://flagcdn.com/48x36/tt.png",
         "currency": "Trinidad and Tobago dollar - TT$",
         "continent": "South America",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -3287,7 +2988,6 @@
         "flag": "https://flagcdn.com/48x36/tv.png",
         "currency": "Australian Dollar - AUD",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+688"
     },
     {
@@ -3298,7 +2998,6 @@
         "flag": "https://flagcdn.com/48x36/tw.png",
         "currency": "New Taiwan dollar - NT$",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+886"
     },
     {
@@ -3309,7 +3008,6 @@
         "flag": "https://flagcdn.com/48x36/tz.png",
         "currency": "Tanzanian shilling - TZS",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+255"
     },
     {
@@ -3320,7 +3018,6 @@
         "flag": "https://flagcdn.com/48x36/ua.png",
         "currency": "Ukrainian hryvnia - ₴",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+380"
     },
     {
@@ -3331,7 +3028,6 @@
         "flag": "https://flagcdn.com/48x36/ug.png",
         "currency": "Ugandan shilling - USh",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+256"
     },
     {
@@ -3342,7 +3038,6 @@
         "flag": "https://flagcdn.com/48x36/us.png",
         "currency": "United States Dollar - $",
         "continent": "North America",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -3353,7 +3048,6 @@
         "flag": "https://flagcdn.com/48x36/uy.png",
         "currency": "Uruguayan Peso - $U",
         "continent": "South America",
-        "states": [],
         "callCodes": "+598"
     },
     {
@@ -3364,7 +3058,6 @@
         "flag": "https://flagcdn.com/48x36/uz.png",
         "currency": "Uzbekistani soʻm - so'm",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+998"
     },
     {
@@ -3375,7 +3068,6 @@
         "flag": "https://flagcdn.com/48x36/va.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+379"
     },
     {
@@ -3386,7 +3078,6 @@
         "flag": "https://flagcdn.com/48x36/vc.png",
         "currency": "Eastern Caribbean dollar - $",
         "continent": "North America",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -3397,7 +3088,6 @@
         "flag": "https://flagcdn.com/48x36/ve.png",
         "currency": "the bolivar - Bs.",
         "continent": "South America",
-        "states": [],
         "callCodes": "+58"
     },
     {
@@ -3408,7 +3098,6 @@
         "flag": "https://flagcdn.com/48x36/vg.png",
         "currency": "United States Dollar - $",
         "continent": "North America",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -3419,7 +3108,6 @@
         "flag": "https://flagcdn.com/48x36/vi.png",
         "currency": "United States Dollar - $",
         "continent": "North America",
-        "states": [],
         "callCodes": "+1"
     },
     {
@@ -3430,7 +3118,6 @@
         "flag": "https://flagcdn.com/48x36/vn.png",
         "currency": "Vietnamese dong - ₫",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+84"
     },
     {
@@ -3441,7 +3128,6 @@
         "flag": "https://flagcdn.com/48x36/vu.png",
         "currency": "Vanuatu vatu - VT",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+678"
     },
     {
@@ -3452,7 +3138,6 @@
         "flag": "https://flagcdn.com/48x36/wf.png",
         "currency": "CFP franc - ₣",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+681"
     },
     {
@@ -3463,7 +3148,6 @@
         "flag": "https://flagcdn.com/48x36/ws.png",
         "currency": "Samoan tālā - WS$",
         "continent": "Oceania",
-        "states": [],
         "callCodes": "+685"
     },
     {
@@ -3474,7 +3158,6 @@
         "flag": "https://flagcdn.com/48x36/xk.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [],
         "callCodes": "+383"
     },
     {
@@ -3485,7 +3168,6 @@
         "flag": "https://flagcdn.com/48x36/ye.png",
         "currency": "Yemeni Rial - ﷼",
         "continent": "Asia",
-        "states": [],
         "callCodes": "+967"
     },
     {
@@ -3496,7 +3178,6 @@
         "flag": "https://flagcdn.com/48x36/yt.png",
         "currency": "Euro - €",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+262"
     },
     {
@@ -3507,7 +3188,6 @@
         "flag": "https://flagcdn.com/48x36/za.png",
         "currency": "South African Rand - R",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+27"
     },
     {
@@ -3518,7 +3198,6 @@
         "flag": "https://flagcdn.com/48x36/zm.png",
         "currency": "Zambian kwacha - ZK",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+260"
     },
     {
@@ -3529,7 +3208,6 @@
         "flag": "https://flagcdn.com/48x36/zw.png",
         "currency": "the Zimbabwe dollar - ZWL",
         "continent": "Africa",
-        "states": [],
         "callCodes": "+263"
     }
 ]
