@@ -4125,8 +4125,8 @@
         "name": "South Africa",
         "emoji": "🇿🇦",
         "flag": "https://flagcdn.com/48x36/za.png",
-        "currency": "",
-        "continent": "",
+        "currency": "South African Rand - R",
+        "continent": "Africa",
         "states": [],
         "callCodes": ""
     },
