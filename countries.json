@@ -4026,10 +4026,10 @@
         "name": "British Virgin Islands",
         "emoji": "🇻🇬",
         "flag": "https://flagcdn.com/48x36/vg.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "VI",
