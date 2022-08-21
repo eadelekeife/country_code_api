@@ -4081,10 +4081,10 @@
         "name": "Samoa",
         "emoji": "🇼🇸",
         "flag": "https://flagcdn.com/48x36/ws.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Samoan tālā - WS$",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+685"
     },
     {
         "code": "XK",
@@ -4092,10 +4092,10 @@
         "name": "Kosovo",
         "emoji": "🇽🇰",
         "flag": "https://flagcdn.com/48x36/xk.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+383"
     },
     {
         "code": "YE",
