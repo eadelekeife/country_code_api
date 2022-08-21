@@ -4037,10 +4037,10 @@
         "name": "U.S. Virgin Islands",
         "emoji": "🇻🇮",
         "flag": "https://flagcdn.com/48x36/vi.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "VN",
@@ -4048,10 +4048,10 @@
         "name": "Vietnam",
         "emoji": "🇻🇳",
         "flag": "https://flagcdn.com/48x36/vn.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Vietnamese dong - ₫",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+84"
     },
     {
         "code": "VU",
@@ -4059,10 +4059,10 @@
         "name": "Vanuatu",
         "emoji": "🇻🇺",
         "flag": "https://flagcdn.com/48x36/vu.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Vanuatu vatu - VT",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+678"
     },
     {
         "code": "WF",
@@ -4070,10 +4070,10 @@
         "name": "Wallis & Futuna",
         "emoji": "🇼🇫",
         "flag": "https://flagcdn.com/48x36/wf.png",
-        "currency": "",
-        "continent": "",
+        "currency": "CFP franc - ₣",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+681"
     },
     {
         "code": "WS",
