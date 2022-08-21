@@ -217,12 +217,6 @@
         "flag": "https://flagcdn.com/48x36/bh.png",
         "currency": "Bahraini dinar - BD",
         "continent": "Asia",
-        "states": [
-            "Light Blue Northern Governorate",
-            "Gold Muharraq Governorate",
-            "Pink Southern Governorate",
-            "Yellow Capital Governorate"
-        ],
         "callCodes": "+973"
     },
     {
@@ -233,25 +227,6 @@
         "flag": "https://flagcdn.com/48x36/bi.png",
         "currency": "Burundian franc - FBu",
         "continent": "Africa",
-        "states": [
-            "Bubanza",
-            "Bujumbura Mairie (City of Bujumbura)",
-            "Bujumbura Rural",
-            "Bururi",
-            "Cankuzo",
-            "Cibitoke",
-            "Gitega",
-            "Karuzi",
-            "Kayanza",
-            "Kirundo",
-            "Makamba",
-            "Muramvya",
-            "Muyinga",
-            "Mwaro",
-            "Ngozi",
-            "Rutana",
-            "Ruyigi"
-        ],
         "callCodes": "+257"
     },
     {
@@ -262,20 +237,6 @@
         "flag": "https://flagcdn.com/48x36/bj.png",
         "currency": "West African CFA franc - CFA",
         "continent": "Africa",
-        "states": [
-            "Kandi",
-            "Natitingou",
-            "Ouidah",
-            "Parakou",
-            "Savalou",
-            "Dogbo-Tota",
-            "Djougou",
-            "Cotonou",
-            "Lokossa",
-            "Porto-Novo",
-            "Sakété",
-            "Abomey"
-        ],
         "callCodes": "+229"
     },
     {
@@ -286,7 +247,6 @@
         "flag": "https://flagcdn.com/48x36/bl.png",
         "currency": "Euro - €",
         "continent": "North America",
-        "states": [],
         "callCodes": "+590"
     },
     {
@@ -297,17 +257,6 @@
         "flag": "https://flagcdn.com/48x36/bm.png",
         "currency": "Bermudian dollar - $",
         "continent": "North America",
-        "states": [
-            "Devonshire",
-            "Hamilton",
-            "Paget",
-            "Pembroke",
-            "St George's",
-            "Sandys",
-            "Smith's",
-            "Southampton",
-            "Warwick"
-        ],
         "callCodes": "+1"
     },
     {
@@ -318,12 +267,6 @@
         "flag": "https://flagcdn.com/48x36/bn.png",
         "currency": "Brunei dollar - B$",
         "continent": "Asia",
-        "states": [
-            "Brunei-Muara",
-            "Belait",
-            "Tutong",
-            "Temburong"
-        ],
         "callCodes": "+673"
     },
     {
@@ -334,17 +277,6 @@
         "flag": "https://flagcdn.com/48x36/bo.png",
         "currency": "Bolivian Boliviano - Bs.",
         "continent": "South America",
-        "states": [
-            "Chuquisaca",
-            "Cochabamba",
-            "Beni",
-            "La Paz",
-            "Oruro",
-            "Pando",
-            "Potosi",
-            "Santa Cruz",
-            "Tarija"
-        ],
         "callCodes": "+591"
     },
     {
@@ -355,11 +287,6 @@
         "flag": "https://flagcdn.com/48x36/bq.png",
         "currency": "Euro - €",
         "continent": "South America",
-        "states": [
-            "Bonaire",
-            "Sint Eustatius",
-            "Saba"
-        ],
         "callCodes": "+599"
     },
     {
