@@ -487,15 +487,6 @@
         "flag": "https://flagcdn.com/48x36/cr.png",
         "currency": "Costa Rican colón - ₡",
         "continent": "North America",
-        "states": [
-            "Alajuela",
-            "Cartago",
-            "Guanacaste",
-            "Heredia",
-            "Limon",
-            "Puntarenas",
-            "San Jose"
-        ],
         "callCodes": "+506"
     },
     {
@@ -506,23 +497,6 @@
         "flag": "https://flagcdn.com/48x36/cu.png",
         "currency": "Cuban Peso - $",
         "continent": "North America",
-        "states": [
-            "Camaguey",
-            "Ciego De Avila",
-            "Cienfuegos",
-            "Ciudad De La Habana",
-            "Granma",
-            "Guantanamo",
-            "Holguin",
-            "Isla De La Juventud",
-            "La Habana",
-            "Las Tunas",
-            "Matanzas",
-            "Pinar Del Rio",
-            "Sancti Spiritus",
-            "Santiago De Cuba",
-            "Villa Clara"
-        ],
         "callCodes": "+53"
     },
     {
