@@ -4103,10 +4103,10 @@
         "name": "Yemen",
         "emoji": "🇾🇪",
         "flag": "https://flagcdn.com/48x36/ye.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Yemeni Rial - ﷼",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+967"
     },
     {
         "code": "YT",
@@ -4114,10 +4114,10 @@
         "name": "Mayotte",
         "emoji": "🇾🇹",
         "flag": "https://flagcdn.com/48x36/yt.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+262"
     },
     {
         "code": "ZA",
