@@ -3644,7 +3644,7 @@
         "currency": "Slovak koruna - kr",
         "continent": "Europe",
         "states": [],
-        "callCodes": "421"
+        "callCodes": "+421"
     },
     {
         "code": "SL",
@@ -3652,10 +3652,10 @@
         "name": "Sierra Leone",
         "emoji": "🇸🇱",
         "flag": "https://flagcdn.com/48x36/sl.png",
-        "currency": "",
+        "currency": "Sierra Leonean leone - Le",
         "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+232"
     },
     {
         "code": "SM",
@@ -3663,10 +3663,10 @@
         "name": "San Marino",
         "emoji": "🇸🇲",
         "flag": "https://flagcdn.com/48x36/sm.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+378"
     },
     {
         "code": "SN",
@@ -3674,10 +3674,10 @@
         "name": "Senegal",
         "emoji": "🇸🇳",
         "flag": "https://flagcdn.com/48x36/sn.png",
-        "currency": "",
-        "continent": "",
+        "currency": "West African CFA franc - CFA",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+221"
     },
     {
         "code": "SO",
@@ -3685,10 +3685,10 @@
         "name": "Somalia",
         "emoji": "🇸🇴",
         "flag": "https://flagcdn.com/48x36/so.png",
-        "currency": "",
-        "continent": "",
+        "currency": "The Somali shilling - Sh.so.",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+252"
     },
     {
         "code": "SR",
@@ -3696,10 +3696,10 @@
         "name": "Suriname",
         "emoji": "🇸🇷",
         "flag": "https://flagcdn.com/48x36/sr.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Surinamese dollar - $",
+        "continent": "South America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+597"
     },
     {
         "code": "SS",
@@ -3707,10 +3707,10 @@
         "name": "South Sudan",
         "emoji": "🇸🇸",
         "flag": "https://flagcdn.com/48x36/ss.png",
-        "currency": "",
-        "continent": "",
+        "currency": "South Sudanese pound - £",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+211"
     },
     {
         "code": "ST",
@@ -3718,10 +3718,10 @@
         "name": "São Tomé & Príncipe",
         "emoji": "🇸🇹",
         "flag": "https://flagcdn.com/48x36/st.png",
-        "currency": "",
-        "continent": "",
+        "currency": "São Tomé and Príncipe dobra - Db",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+239"
     },
     {
         "code": "SV",
@@ -3729,10 +3729,10 @@
         "name": "El Salvador",
         "emoji": "🇸🇻",
         "flag": "https://flagcdn.com/48x36/sv.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Bitcoin - ₿",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+503"
     },
     {
         "code": "SX",
@@ -3740,10 +3740,10 @@
         "name": "Sint Maarten",
         "emoji": "🇸🇽",
         "flag": "https://flagcdn.com/48x36/sx.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Netherlands Antillean guilder - NAf",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+721"
     },
     {
         "code": "SY",
@@ -3751,10 +3751,10 @@
         "name": "Syria",
         "emoji": "🇸🇾",
         "flag": "https://flagcdn.com/48x36/sy.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Syrian pound - £S",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+963"
     },
     {
         "code": "SZ",
@@ -3762,21 +3762,10 @@
         "name": "Swaziland",
         "emoji": "🇸🇿",
         "flag": "https://flagcdn.com/48x36/sz.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Swazi Lilangeni - L",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
-    },
-    {
-        "code": "TA",
-        "unicode": "U+1F1F9 U+1F1E6",
-        "name": "Tristan da Cunha",
-        "emoji": "🇹🇦",
-        "flag": "https://flagcdn.com/48x36/ta.png",
-        "currency": "",
-        "continent": "",
-        "states": [],
-        "callCodes": ""
+        "callCodes": "+268"
     },
     {
         "code": "TC",
@@ -3784,10 +3773,10 @@
         "name": "Turks & Caicos Islands",
         "emoji": "🇹🇨",
         "flag": "https://flagcdn.com/48x36/tc.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "TD",
@@ -3795,10 +3784,10 @@
         "name": "Chad",
         "emoji": "🇹🇩",
         "flag": "https://flagcdn.com/48x36/td.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Central African CFA franc - FCFA",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+235"
     },
     {
         "code": "TF",
@@ -3806,10 +3795,10 @@
         "name": "French Southern Territories",
         "emoji": "🇹🇫",
         "flag": "https://flagcdn.com/48x36/tf.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Antarctica",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+262"
     },
     {
         "code": "TG",
@@ -3817,10 +3806,10 @@
         "name": "Togo",
         "emoji": "🇹🇬",
         "flag": "https://flagcdn.com/48x36/tg.png",
-        "currency": "",
-        "continent": "",
+        "currency": "West African CFA franc - CFA",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+228"
     },
     {
         "code": "TH",
@@ -3828,10 +3817,10 @@
         "name": "Thailand",
         "emoji": "🇹🇭",
         "flag": "https://flagcdn.com/48x36/th.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Thai Baht - ฿",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+66"
     },
     {
         "code": "TJ",
@@ -3839,21 +3828,10 @@
         "name": "Tajikistan",
         "emoji": "🇹🇯",
         "flag": "https://flagcdn.com/48x36/tj.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Tajikistani somoni - ЅM",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
-    },
-    {
-        "code": "TK",
-        "unicode": "U+1F1F9 U+1F1F0",
-        "name": "Tokelau",
-        "emoji": "🇹🇰",
-        "flag": "https://flagcdn.com/48x36/tk.png",
-        "currency": "",
-        "continent": "",
-        "states": [],
-        "callCodes": ""
+        "callCodes": "+992"
     },
     {
         "code": "TL",
@@ -3861,10 +3839,10 @@
         "name": "Timor-Leste",
         "emoji": "🇹🇱",
         "flag": "https://flagcdn.com/48x36/tl.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+670"
     },
     {
         "code": "TM",
@@ -3872,10 +3850,10 @@
         "name": "Turkmenistan",
         "emoji": "🇹🇲",
         "flag": "https://flagcdn.com/48x36/tm.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Turkmenistani manat - T",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+993"
     },
     {
         "code": "TN",
@@ -3883,10 +3861,10 @@
         "name": "Tunisia",
         "emoji": "🇹🇳",
         "flag": "https://flagcdn.com/48x36/tn.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Tunisian Dinar - د.ت",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+216"
     },
     {
         "code": "TO",
@@ -3894,10 +3872,10 @@
         "name": "Tonga",
         "emoji": "🇹🇴",
         "flag": "https://flagcdn.com/48x36/to.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Tongan paʻanga - T$",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+676"
     },
     {
         "code": "TR",
@@ -3905,10 +3883,10 @@
         "name": "Turkey",
         "emoji": "🇹🇷",
         "flag": "https://flagcdn.com/48x36/tr.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Turkish lira - ₺",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+90"
     },
     {
         "code": "TT",
@@ -3916,10 +3894,10 @@
         "name": "Trinidad & Tobago",
         "emoji": "🇹🇹",
         "flag": "https://flagcdn.com/48x36/tt.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Trinidad and Tobago dollar - TT$",
+        "continent": "South America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "TV",
@@ -3927,10 +3905,10 @@
         "name": "Tuvalu",
         "emoji": "🇹🇻",
         "flag": "https://flagcdn.com/48x36/tv.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Australian Dollar - AUD",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+688"
     },
     {
         "code": "TW",
@@ -3938,10 +3916,10 @@
         "name": "Taiwan",
         "emoji": "🇹🇼",
         "flag": "https://flagcdn.com/48x36/tw.png",
-        "currency": "",
-        "continent": "",
+        "currency": "New Taiwan dollar - NT$",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+886"
     },
     {
         "code": "TZ",
@@ -3949,10 +3927,10 @@
         "name": "Tanzania",
         "emoji": "🇹🇿",
         "flag": "https://flagcdn.com/48x36/tz.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Tanzanian shilling - TZS",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+255"
     },
     {
         "code": "UA",
@@ -3960,10 +3938,10 @@
         "name": "Ukraine",
         "emoji": "🇺🇦",
         "flag": "https://flagcdn.com/48x36/ua.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Ukrainian hryvnia - ₴",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+380"
     },
     {
         "code": "UG",
@@ -3971,32 +3949,10 @@
         "name": "Uganda",
         "emoji": "🇺🇬",
         "flag": "https://flagcdn.com/48x36/ug.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Ugandan shilling - USh",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
-    },
-    {
-        "code": "UM",
-        "unicode": "U+1F1FA U+1F1F2",
-        "name": "U.S. Outlying Islands",
-        "emoji": "🇺🇲",
-        "flag": "https://flagcdn.com/48x36/um.png",
-        "currency": "",
-        "continent": "",
-        "states": [],
-        "callCodes": ""
-    },
-    {
-        "code": "UN",
-        "unicode": "U+1F1FA U+1F1F3",
-        "name": "United Nations",
-        "emoji": "🇺🇳",
-        "flag": "https://flagcdn.com/48x36/un.png",
-        "currency": "",
-        "continent": "",
-        "states": [],
-        "callCodes": ""
+        "callCodes": "+256"
     },
     {
         "code": "US",
@@ -4004,10 +3960,10 @@
         "name": "United States",
         "emoji": "🇺🇸",
         "flag": "https://flagcdn.com/48x36/us.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "UY",
@@ -4015,10 +3971,10 @@
         "name": "Uruguay",
         "emoji": "🇺🇾",
         "flag": "https://flagcdn.com/48x36/uy.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Uruguayan Peso - $U",
+        "continent": "South America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+598"
     },
     {
         "code": "UZ",
@@ -4026,10 +3982,10 @@
         "name": "Uzbekistan",
         "emoji": "🇺🇿",
         "flag": "https://flagcdn.com/48x36/uz.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Uzbekistani soʻm - so'm",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+998"
     },
     {
         "code": "VA",
@@ -4037,10 +3993,10 @@
         "name": "Vatican City",
         "emoji": "🇻🇦",
         "flag": "https://flagcdn.com/48x36/va.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+379"
     },
     {
         "code": "VC",
@@ -4048,10 +4004,10 @@
         "name": "St. Vincent & Grenadines",
         "emoji": "🇻🇨",
         "flag": "https://flagcdn.com/48x36/vc.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Eastern Caribbean dollar - $",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "VE",
@@ -4059,10 +4015,10 @@
         "name": "Venezuela",
         "emoji": "🇻🇪",
         "flag": "https://flagcdn.com/48x36/ve.png",
-        "currency": "",
-        "continent": "",
+        "currency": "the bolivar - Bs.",
+        "continent": "South America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+58"
     },
     {
         "code": "VG",
@@ -4070,10 +4026,10 @@
         "name": "British Virgin Islands",
         "emoji": "🇻🇬",
         "flag": "https://flagcdn.com/48x36/vg.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "VI",
@@ -4081,10 +4037,10 @@
         "name": "U.S. Virgin Islands",
         "emoji": "🇻🇮",
         "flag": "https://flagcdn.com/48x36/vi.png",
-        "currency": "",
-        "continent": "",
+        "currency": "United States Dollar - $",
+        "continent": "North America",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+1"
     },
     {
         "code": "VN",
@@ -4092,10 +4048,10 @@
         "name": "Vietnam",
         "emoji": "🇻🇳",
         "flag": "https://flagcdn.com/48x36/vn.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Vietnamese dong - ₫",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+84"
     },
     {
         "code": "VU",
@@ -4103,10 +4059,10 @@
         "name": "Vanuatu",
         "emoji": "🇻🇺",
         "flag": "https://flagcdn.com/48x36/vu.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Vanuatu vatu - VT",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+678"
     },
     {
         "code": "WF",
@@ -4114,10 +4070,10 @@
         "name": "Wallis & Futuna",
         "emoji": "🇼🇫",
         "flag": "https://flagcdn.com/48x36/wf.png",
-        "currency": "",
-        "continent": "",
+        "currency": "CFP franc - ₣",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+681"
     },
     {
         "code": "WS",
@@ -4125,10 +4081,10 @@
         "name": "Samoa",
         "emoji": "🇼🇸",
         "flag": "https://flagcdn.com/48x36/ws.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Samoan tālā - WS$",
+        "continent": "Oceania",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+685"
     },
     {
         "code": "XK",
@@ -4136,10 +4092,10 @@
         "name": "Kosovo",
         "emoji": "🇽🇰",
         "flag": "https://flagcdn.com/48x36/xk.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Europe",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+383"
     },
     {
         "code": "YE",
@@ -4147,10 +4103,10 @@
         "name": "Yemen",
         "emoji": "🇾🇪",
         "flag": "https://flagcdn.com/48x36/ye.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Yemeni Rial - ﷼",
+        "continent": "Asia",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+967"
     },
     {
         "code": "YT",
@@ -4158,10 +4114,10 @@
         "name": "Mayotte",
         "emoji": "🇾🇹",
         "flag": "https://flagcdn.com/48x36/yt.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Euro - €",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+262"
     },
     {
         "code": "ZA",
@@ -4169,10 +4125,10 @@
         "name": "South Africa",
         "emoji": "🇿🇦",
         "flag": "https://flagcdn.com/48x36/za.png",
-        "currency": "",
-        "continent": "",
+        "currency": "South African Rand - R",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+27"
     },
     {
         "code": "ZM",
@@ -4180,16 +4136,20 @@
         "name": "Zambia",
         "emoji": "🇿🇲",
         "flag": "https://flagcdn.com/48x36/zm.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Zambian kwacha - ZK",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+260"
     },
     {
         "code": "ZW",
         "unicode": "U+1F1FF U+1F1FC",
         "name": "Zimbabwe",
         "emoji": "🇿🇼",
-        "flag": "https://flagcdn.com/48x36/zw.png"
+        "flag": "https://flagcdn.com/48x36/zw.png",
+        "currency": "the Zimbabwe dollar - ZWL",
+        "continent": "Africa",
+        "states": [],
+        "callCodes": "+263"
     }
 ]
