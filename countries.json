@@ -507,24 +507,6 @@
         "flag": "https://flagcdn.com/48x36/cv.png",
         "currency": "Cape Verdean escudo - Esc",
         "continent": "Africa",
-        "states": [
-            "São Domingos",
-            "Brava",
-            "Maio",
-            "Mosteiros",
-            "Paul",
-            "Praia",
-            "Ribeira Grande",
-            "Sal",
-            "Santa Catarina",
-            "Santa Cruz",
-            "Sao Filipe",
-            "Sao Miguel",
-            "Sao Nicolau",
-            "Sao Vicente",
-            "Boa Vista",
-            "Tarrafal"
-        ],
         "callCodes": "+238"
     },
     {
@@ -555,14 +537,6 @@
         "flag": "https://flagcdn.com/48x36/cy.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [
-            "Nicosia",
-            "Larnaca",
-            "Limassol",
-            "Paphos",
-            "Famagusta",
-            "Kyrenia"
-        ],
         "callCodes": "+357"
     },
     {
