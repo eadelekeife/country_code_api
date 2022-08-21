@@ -557,24 +557,6 @@
         "flag": "https://flagcdn.com/48x36/de.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [
-            "Baden-Württemberg",
-            "Bayern (Bavaria)",
-            "Berlin",
-            "Brandenburg",
-            "Bremen",
-            "Hamburg",
-            "Hessen",
-            "Mecklenburg-Vorpommern",
-            "Niedersachsen (Lower Saxony)",
-            "Nordrhein-Westfalen (North Rhine-Westphalia)",
-            "Rheinland-Pfalz (Rhineland-Palatinate)",
-            "Saarland",
-            "Sachsen (Saxony)",
-            "Sachsen-Anhalt (Saxony-Anhalt)",
-            "Schleswig-Holstein",
-            "Thüringen (Thuringia)"
-        ],
         "callCodes": "+49"
     },
     {
@@ -585,14 +567,6 @@
         "flag": "https://flagcdn.com/48x36/dj.png",
         "currency": "Djiboutian franc - Fdj",
         "continent": "Africa",
-        "states": [
-            "Région d'Ali Sabieh",
-            "Région d'Arta",
-            "Région de Dikhil",
-            "Ville de Djibouti",
-            "Région d'Obock",
-            "Région de Tadjourah"
-        ],
         "callCodes": "+253"
     },
     {
@@ -603,13 +577,6 @@
         "flag": "https://flagcdn.com/48x36/dk.png",
         "currency": "Danish krone - Kr",
         "continent": "Europe",
-        "states": [
-            "Region Hovedstaden",
-            "Region Midtjylland",
-            "Region Nordjylland",
-            "Region Sjælland",
-            "Region Syddanmark"
-        ],
         "callCodes": "+45"
     },
     {
@@ -620,18 +587,6 @@
         "flag": "https://flagcdn.com/48x36/dm.png",
         "currency": "Eastern Caribbean dollar - $",
         "continent": "North America",
-        "states": [
-            "Saint Andrew Parish",
-            "Saint David Parish",
-            "Saint George Parish",
-            "Saint John Parish",
-            "Saint Joseph Parish",
-            "Saint Luke Parish",
-            "Saint Mark Parish",
-            "Saint Patrick Parish",
-            "Saint Paul Parish",
-            "Saint Peter Parish"
-        ],
         "callCodes": "+1"
     },
     {
@@ -642,39 +597,6 @@
         "flag": "https://flagcdn.com/48x36/do.png",
         "currency": "Dominican peso - RD$",
         "continent": "North America",
-        "states": [
-            "Baoruco",
-            "Barahona",
-            "Dajabón",
-            "Distrito Nacional",
-            "Duarte",
-            "Elías Piña",
-            "El Seibo",
-            "Espaillat",
-            "Hato Mayor",
-            "Hermanas Mirabal",
-            "Independencia",
-            "La Altagracia",
-            "La Romana",
-            "La Vega",
-            "María Trinidad Sánchez",
-            "Monseñor Nouel",
-            "Monte Cristi",
-            "Monte Plata",
-            "Pedernales",
-            "Peravia",
-            "Puerto Plata",
-            "Samaná",
-            "Sánchez Ramírez",
-            "San Cristóbal",
-            "San José de Ocoa",
-            "San Juan",
-            "San Pedro de Macorís",
-            "Santiago",
-            "Santiago Rodríguez",
-            "Santo Domingo",
-            "Valverde"
-        ],
         "callCodes": "+1"
     },
     {
@@ -685,66 +607,6 @@
         "flag": "https://flagcdn.com/48x36/dz.png",
         "currency": "Algerian Dinar - دج",
         "continent": "Africa",
-        "states": [
-            "Adrar",
-            "Algiers",
-            "Aïn Defla",
-            "Aïn Témouchent",
-            "Annaba",
-            "Batna",
-            "Béjaïa",
-            "Biskra",
-            "Béchar",
-            "Béni Abbès",
-            "Blida",
-            "Bordj Bou Arréridj",
-            "Bordj Baji Mokhtar",
-            "Boumerdès",
-            "Bouïra",
-            "Chlef",
-            "Constantine",
-            "Djanet",
-            "Djelfa",
-            "El Bayadh",
-            "El M'Ghair",
-            "El Menia",
-            "El Oued",
-            "El Tarf",
-            "Ghardaïa",
-            "Guelma",
-            "Illizi",
-            "In Guezzam",
-            "In Salah",
-            "Jijel",
-            "Khenchela",
-            "Laghouat",
-            "M'Sila",
-            "Mascara",
-            "Médéa",
-            "Mila",
-            "Mostaganem",
-            "Naâma",
-            "Oran",
-            "Ouargla",
-            "Ouled Djellal",
-            "Oum El Bouaghi",
-            "Tamanrasset",
-            "Tébessa",
-            "Tlemcen",
-            "Tiaret",
-            "Timimoun",
-            "Tindouf",
-            "Tipaza",
-            "Tissemsilt",
-            "Tizi Ouzou",
-            "Touggourt",
-            "Relizane",
-            "Saïda",
-            "Sétif",
-            "Sidi Bel Abbès",
-            "Skikda",
-            "Souk Ahras"
-        ],
         "callCodes": "+213"
     },
     {
@@ -755,32 +617,6 @@
         "flag": "https://flagcdn.com/48x36/ec.png",
         "currency": "United States Dollar - $",
         "continent": "South America",
-        "states": [
-            "Azuay",
-            "Bolívar",
-            "Cañar",
-            "Carchi",
-            "Chimborazo",
-            "Cotopaxi",
-            "El Oro",
-            "Esmeraldas",
-            "Galápagos",
-            "Guayas",
-            "Imbabura",
-            "Loja",
-            "Los Ríos",
-            "Manabí",
-            "Morona Santiago",
-            "Napo",
-            "Orellana",
-            "Pastaza",
-            "Pichincha",
-            "Santa Elena",
-            "Santo Domingo de los Tsáchilas ",
-            "Sucumbíos ",
-            "Tungurahua",
-            "Zamora-Chinchipe"
-        ],
         "callCodes": "+593"
     },
     {
@@ -791,23 +627,6 @@
         "flag": "https://flagcdn.com/48x36/ee.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [
-            "Harju County",
-            "Hiiu County",
-            "Ida-Viru County",
-            "Jõgeva County",
-            "Järva County",
-            "Lääne County",
-            "Lääne-Viru County",
-            "Põlva County",
-            "Pärnu County",
-            "Rapla County",
-            "Saare County",
-            "Tartu County",
-            "Valga County",
-            "Viljandi County",
-            "Võru County"
-        ],
         "callCodes": "+372"
     },
     {
@@ -818,35 +637,6 @@
         "flag": "https://flagcdn.com/48x36/eg.png",
         "currency": "Egyptian pound - E£",
         "continent": "Africa",
-        "states": [
-            "Alexandria",
-            "Aswan",
-            "Assiut",
-            "Beheira",
-            "Beni Suef",
-            "Cairo",
-            "Dakahlia",
-            "Damietta",
-            "Fayoum",
-            "Gharbia",
-            "Giza",
-            "Ismailia",
-            "Kafr el-Sheikh",
-            "Matrouh",
-            "Minya",
-            "Menofia",
-            "New Valley",
-            "North Sinai",
-            "Port Said",
-            "Qualyubia",
-            "Qena",
-            "Red Sea",
-            "Al-Sharqia",
-            "Soha",
-            "South Sinai",
-            "Suez",
-            "Luxor"
-        ],
         "callCodes": "+20"
     },
     {
@@ -857,14 +647,6 @@
         "flag": "https://flagcdn.com/48x36/er.png",
         "currency": "Eritrean nakfa - Nfk",
         "continent": "Africa",
-        "states": [
-            "Anseba Region",
-            "Central (Maekel) Region",
-            "Gash-Barka Region",
-            "Northern Red Sea Region",
-            "Southern (Debub) Region",
-            "Southern Red Sea Region"
-        ],
         "callCodes": "+291"
     },
     {
@@ -875,25 +657,6 @@
         "flag": "https://flagcdn.com/48x36/es.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [
-            "Andalusia",
-            "Catalonia",
-            "Community of Madrid",
-            "Valencian Community",
-            "Galicia",
-            "Castile and León",
-            "Basque Country",
-            "Castilla-La Mancha",
-            "Canary Islands",
-            "Region of Murcia",
-            "Aragon",
-            "Extremadura",
-            "Balearic Islands",
-            "Asturias",
-            "Navarre",
-            "Cantabria",
-            "La Rioja"
-        ],
         "callCodes": "+34"
     },
     {
@@ -904,20 +667,6 @@
         "flag": "https://flagcdn.com/48x36/et.png",
         "currency": "Ethiopian Birr - Br",
         "continent": "Africa",
-        "states": [
-            "Addis Ababa",
-            "Afar",
-            "Amhara",
-            "Benishangul-Gumuz",
-            "Dire Dawa",
-            "Gambella",
-            "Harari",
-            "Nationalities and Peoples Region (SNNPR)",
-            "Oromia",
-            "Somali",
-            "Southern Nations",
-            "Tigray"
-        ],
         "callCodes": "+251"
     },
     {
@@ -928,27 +677,6 @@
         "flag": "https://flagcdn.com/48x36/fi.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [
-            "Lappi",
-            "North Ostrobothnia",
-            "Kainuu",
-            "Pohjois-Karjala",
-            "Pohjois-Savo",
-            "Etelä-Savo",
-            "Etelä-Karjala",
-            "Keski-Suomi",
-            "Etelä-Pohjanmaa",
-            "Pohjanmaa",
-            "Keski-Pohjanmaa",
-            "Pirkanmaa",
-            "Satakunta",
-            "Päijät-Häme",
-            "Kanta-Häme",
-            "Kymenlaakso",
-            "Uusimaa",
-            "Varsinais-Suomi",
-            "Åland"
-        ],
         "callCodes": "+358"
     },
     {
@@ -959,22 +687,6 @@
         "flag": "https://flagcdn.com/48x36/fj.png",
         "currency": "Fijian Dollar - FJ$",
         "continent": "Oceania",
-        "states": [
-            "Ba",
-            "Bua",
-            "Cakaudrove",
-            "Kadavu",
-            "Lau",
-            "Lomaiviti",
-            "Macuata",
-            "Nadroga-Navosa",
-            "Naitasiri",
-            "Namosi",
-            "Ra",
-            "Rewa",
-            "Serua",
-            "Tailevu"
-        ],
         "callCodes": "+679"
     },
     {
@@ -985,10 +697,6 @@
         "flag": "https://flagcdn.com/48x36/fk.png",
         "currency": "Falkland Islands pound - £",
         "continent": "South America",
-        "states": [
-            "West Falkland",
-            "East Falkland"
-        ],
         "callCodes": "+500"
     },
     {
@@ -999,12 +707,6 @@
         "flag": "https://flagcdn.com/48x36/fm.png",
         "currency": "United States Dollar - $",
         "continent": "Oceania",
-        "states": [
-            "Yap",
-            "Chuuk",
-            "Pohnpei",
-            "Kosrae"
-        ],
         "callCodes": "+691"
     },
     {
@@ -1015,14 +717,6 @@
         "flag": "https://flagcdn.com/48x36/fo.png",
         "currency": "Faroese króna - Kr",
         "continent": "Europe",
-        "states": [
-            "Eysturoyar sýsla",
-            "Norðoya sýsla",
-            "Sandoyar sýsla",
-            "Streymoyar sýsla",
-            "Suðuroyar sýsla",
-            "Vága sýsla"
-        ],
         "callCodes": "+298"
     },
     {
@@ -1033,21 +727,6 @@
         "flag": "https://flagcdn.com/48x36/fr.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [
-            "Auvergne",
-            "Bretagne",
-            "Bourgogne",
-            "Corse",
-            "Centre",
-            "Grand Est",
-            "Hauts de France",
-            "Ile de France",
-            "Nouvelle Aquitaine",
-            "Normandie",
-            "Occitanie",
-            "Pays de la Loire",
-            "Provence"
-        ],
         "callCodes": "+33"
     },
     {
@@ -1058,17 +737,6 @@
         "flag": "https://flagcdn.com/48x36/ga.png",
         "currency": "Central African CFA franc - FCFA",
         "continent": "Africa",
-        "states": [
-            "Estuaire",
-            "Haut-Ogooué",
-            "Moyen-Ogooué",
-            "Ngounié",
-            "Nyanga",
-            "Ogooué-Ivindo",
-            "Ogooué-Lolo",
-            "Ogooué-Maritime",
-            "Woleu-Ntem"
-        ],
         "callCodes": "+241"
     },
     {
@@ -1089,20 +757,6 @@
         "flag": "https://flagcdn.com/48x36/ge.png",
         "currency": "Georgian lari - GEL",
         "continent": "Europe",
-        "states": [
-            "Tbilisi",
-            "Imereti",
-            "Ajaria",
-            "Kvemo Kartli",
-            "Samegrelo and Zemo Svaneti",
-            "Kakheti",
-            "Shida Kartli",
-            "Abkhazia",
-            "Samtskhe-Javakheti",
-            "Guria",
-            "Mtskheta-Mtianeti",
-            "Racha-Lechkhumi and Kvemo Svaneti"
-        ],
         "callCodes": "+995"
     },
     {
