@@ -95,22 +95,8 @@
         "name": "American Samoa",
         "emoji": "🇦🇸",
         "flag": "https://flagcdn.com/48x36/as.png",
-        "currency": "United States Dollar",
+        "currency": "United States Dollar - $",
         "continent": "Oceania",
-        "states": [
-            "Aunu'u",
-            "Fofo",
-            "Itu'au",
-            "Lealataua",
-            "Leasina",
-            "Ma'oputasi",
-            "Sa'ole",
-            "Sua",
-            "Tualatai",
-            "Tualauta",
-            "Tutuila",
-            "Vaifanua"
-        ],
         "callCodes": "+1"
     },
     {
@@ -121,17 +107,6 @@
         "flag": "https://flagcdn.com/48x36/at.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [
-            "Vienna (Wien)",
-            "Lower Austria (Niederösterreich)",
-            "Upper Austria (Oberösterreich)",
-            "Styria (Steiermark)",
-            "Tyrol (Tirol)",
-            "Carinthia (Kärnten)",
-            "Salzburg",
-            "Vorarlberg",
-            "Burgenland"
-        ],
         "callCodes": "+43"
     },
     {
@@ -142,16 +117,6 @@
         "flag": "https://flagcdn.com/48x36/au.png",
         "currency": "Australian dollar - AUD",
         "continent": "Australia",
-        "states": [
-            "New South Wales",
-            "Queensland",
-            "Northern Territory",
-            "Western Australia",
-            "South Australia",
-            "Victoria",
-            "the Australian Capital Territory",
-            "Tasmania"
-        ],
         "callCodes": "+61"
     },
     {
@@ -160,9 +125,8 @@
         "name": "Aruba",
         "emoji": "🇦🇼",
         "flag": "https://flagcdn.com/48x36/aw.png",
-        "currency": "Aruban florin",
+        "currency": "Aruban florin - ƒ",
         "continent": "South America",
-        "states": [],
         "callCodes": "+297"
     },
     {
@@ -173,24 +137,6 @@
         "flag": "https://flagcdn.com/48x36/ax.png",
         "currency": "Euro - €",
         "continent": "South America",
-        "states": [
-            "Maarianhamina",
-            "Jomala",
-            "Finström",
-            "Lemland",
-            "Saltvik",
-            "Hammarland",
-            "Sund",
-            "Eckerö",
-            "Föglö",
-            "Geta",
-            "Vårdö",
-            "Brändö",
-            "Lumparland",
-            "Kumlinge",
-            "Kökar",
-            "Sottunga"
-        ],
         "callCodes": "+358"
     },
     {
@@ -199,19 +145,8 @@
         "name": "Azerbaijan",
         "emoji": "🇦🇿",
         "flag": "https://flagcdn.com/48x36/az.png",
-        "currency": "Azerbaijani manat",
+        "currency": "Azerbaijani manat - ₼",
         "continent": "Europe",
-        "states": [
-            "Baku",
-            "Sumqayıt",
-            "Gəncə",
-            "Lənkəran",
-            "Mingəçevir",
-            "Naxçıvan",
-            "Şirvan",
-            "Şəki",
-            "Yevlax"
-        ],
         "callCodes": "+994"
     },
     {
@@ -220,23 +155,8 @@
         "name": "Bosnia & Herzegovina",
         "emoji": "🇧🇦",
         "flag": "https://flagcdn.com/48x36/ba.png",
-        "currency": "Bosnia-Herzegovina Convertible Mark",
+        "currency": "Bosnia-Herzegovina Convertible Mark - KM",
         "continent": "Europe",
-        "states": [
-            "Bosnian Podrinje Canton",
-            "Brčko District",
-            "Canton",
-            "Central Bosnia Canton",
-            "Federation of Bosnia and Herzegovina",
-            "Herzegovina-Neretva Canton",
-            "Posavina Canton",
-            "Republika Srpska",
-            "Sarajevo Canton",
-            "Tuzla Canton",
-            "Una-Sana Canton",
-            "West Herzegovina Canton",
-            "Zenica-Doboj Canton"
-        ],
         "callCodes": "+387"
     },
     {
@@ -245,21 +165,8 @@
         "name": "Barbados",
         "emoji": "🇧🇧",
         "flag": "https://flagcdn.com/48x36/bb.png",
-        "currency": "The Barbados Dollar",
+        "currency": "The Barbados Dollar - Bds$",
         "continent": "North America",
-        "states": [
-            "The Parish of St Lucy",
-            "The Parish of St Thomas",
-            "The Parish of St John",
-            "The Parish of St Philip",
-            "The Parish of St Andrew",
-            "The Parish of St James",
-            "The Parish of Christ Church",
-            "The Parish of St Michael",
-            "The Parish of St.Peter",
-            "The Parish of St.Joseph",
-            "The Parish of St.George"
-        ],
         "callCodes": "+1"
     },
     {
@@ -268,18 +175,8 @@
         "name": "Bangladesh",
         "emoji": "🇧🇩",
         "flag": "https://flagcdn.com/48x36/bd.png",
-        "currency": "Bangladeshi taka",
+        "currency": "Bangladeshi taka - ৳",
         "continent": "Asia",
-        "states": [
-            "Barisal",
-            "Chittagong",
-            "Dhaka",
-            "Mymensingh",
-            "Khulna",
-            "Rajshahi",
-            "Rangpur",
-            "Sylhet"
-        ],
         "callCodes": "+880"
     },
     {
@@ -290,19 +187,6 @@
         "flag": "https://flagcdn.com/48x36/be.png",
         "currency": "Euro - €",
         "continent": "Europe",
-        "states": [
-            "Antwerpen",
-            "Brussels",
-            "Limburg",
-            "Vlaams Brabant",
-            "Oost-Vlaanderen",
-            "West-Vlaanderen",
-            "Hainaut",
-            "Brabant wallon",
-            "Namur",
-            "Liège",
-            "Luxembourg"
-        ],
         "callCodes": "+32"
     },
     {
@@ -313,51 +197,6 @@
         "flag": "https://flagcdn.com/48x36/bf.png",
         "currency": "West African CFA franc - CFA",
         "continent": "Africa",
-        "states": [
-            "Balé",
-            "Bam",
-            "Banwa",
-            "Bazèga",
-            "Bougouriba",
-            "Boulgou",
-            "Boulkiemdè",
-            "Comoè",
-            "Ganzourgou ",
-            "Gnagna",
-            "Gourma",
-            "Houet",
-            "Ioba",
-            "Kadiogo",
-            "Kènèdougou",
-            "Komondjari",
-            "Kompienga",
-            "Kossi",
-            "Koulpélogo",
-            "Kourritenga",
-            "Kourwéogo ",
-            "Léraba",
-            "Loroum",
-            "Mouhoun",
-            "Nahouri",
-            "Namentenga",
-            "Nayala",
-            "Noumbiel",
-            "Oubritenga",
-            "Oudalan",
-            "Passorè",
-            "Poni",
-            "Sanguiè",
-            "Sèno",
-            "Sissili",
-            "Sourou",
-            "Tapoa",
-            "Tuy",
-            "Yagha",
-            "Yatenga",
-            "Ziro",
-            "Zondoma",
-            "Zoundwèogo"
-        ],
         "callCodes": "+226"
     },
     {
@@ -368,37 +207,6 @@
         "flag": "https://flagcdn.com/48x36/bg.png",
         "currency": "Bulgarian lev - Лв.",
         "continent": "Europe",
-        "states": [
-            "Grad Sofiya",
-            "Plovdiv",
-            "Varna",
-            "Burgas",
-            "Stara Zagora",
-            "Haskovo",
-            "Pleven",
-            "Pazardzhik",
-            "Ruse",
-            "Blagoevgrad",
-            "Sofiya",
-            "Sliven",
-            "Lovech",
-            "Dobrich",
-            "Shumen",
-            "Pernik",
-            "Gabrovo",
-            "Kyustendil",
-            "Yambol",
-            "Vratsa",
-            "Montana",
-            "Smolyan",
-            "Veliko Tŭrnovo",
-            "Vidin",
-            "Silistra",
-            "Razgrad",
-            "Tŭrgovishte",
-            "Kŭrdzhali",
-            "Mikhaylovgrad"
-        ],
         "callCodes": "+359"
     },
     {
