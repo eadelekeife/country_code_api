@@ -4128,7 +4128,7 @@
         "currency": "South African Rand - R",
         "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+27"
     },
     {
         "code": "ZM",
@@ -4136,10 +4136,10 @@
         "name": "Zambia",
         "emoji": "🇿🇲",
         "flag": "https://flagcdn.com/48x36/zm.png",
-        "currency": "",
-        "continent": "",
+        "currency": "Zambian kwacha - ZK",
+        "continent": "Africa",
         "states": [],
-        "callCodes": ""
+        "callCodes": "+260"
     },
     {
         "code": "ZW",
