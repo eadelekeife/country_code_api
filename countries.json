@@ -4146,6 +4146,10 @@
         "unicode": "U+1F1FF U+1F1FC",
         "name": "Zimbabwe",
         "emoji": "🇿🇼",
-        "flag": "https://flagcdn.com/48x36/zw.png"
+        "flag": "https://flagcdn.com/48x36/zw.png",
+        "currency": "the Zimbabwe dollar - ZWL",
+        "continent": "Africa",
+        "states": [],
+        "callCodes": "+263"
     }
 ]
